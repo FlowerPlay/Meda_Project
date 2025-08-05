@@ -11,7 +11,7 @@ Assumptions:
 7.  Once DJ gets the code from me, he will simply take the .zip file from Github and put it into a repo of his choice, then run the code in a Python environment of his choice.  Therefore, I have only saved the original .csv files that the code generated AND the original SQLite database that the code created into an Original_Data folder in my repo for DJ's reference.
 8.  Once this code was completed, it would need to be run on some time table regularly to update the data, so to simulate this requirement I've also put a .bat file into the repo to show how a Task could be set up to run the code hourly and update continually for reporting / analytical purposes.
 9.  If I had more time, I would have used a different database than SQLite, such as PostgreSQL or MySQL, so that indexing and performance management, etc could be more accurately demonstrated.  However, I went with SQLite because it was DJ's choice.  I am not a fan of SQLite personally, but I can work with it and if I had more time I'd spend time optimizing, indexing, and creating the data visualizations.
-10.  Now that I've spent 3 days coding, DJ will hire me immediately and pay me beyond my wildest dreams.  (just kidding, but I do hope he reads this file and appreciate the effor I put into his assessment).
+10.  Now that I've spent 3 days coding, DJ will hire me immediately and pay me beyond my wildest dreams.  (just kidding, but I do hope he reads this file and appreciate the effort I put into his assessment).
 ----------------------------------------------------------------------------------------------------------------------------------
 
 The Relational Tables
