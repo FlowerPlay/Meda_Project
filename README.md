@@ -1,14 +1,17 @@
 # Meda_Project
-Repo for Medaxion assessment Python code, SQLite db, &amp; readme files - August 5, 2025
+Repo for Medaxion assessment Python code, SQLite db, &amp; readme files - August 4-8, 2025
 
 Assumptions:
 1.  It doesn't matter which 500 products are pulled from the Open Food Facts database, as long as at least 500 products are pulled.
 2.  It does not matter where this code is run (ie, doesn't matter if it is run locally or on a virtual server).  Therefore, I can set this up in Github Codespaces and run it on Linux in a virtual instance there.
 3.  Validations only have to be the most basic, to illustrate that I know how to do this in Python. (Because my background is as a DBA & Data QA Architect, typically, most of the Data QA that I would run would be automated and not necessarily done during the initial data load.)
-4.  Wherever Python has libraries to do the work, I do not need to create my own.  Hence, for this project I used requests, validate, marshmallow, time, and csv.
-5.   
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.  Wherever Python has libraries to do the work, I do not need to create my own.  Hence, for this project I used requests, val, time, logging, sqlite3, and csv.
+5.  Wherever errors might be thrown, there needed to be at least rudimentary error logging, so I've written the code to create n errors log in the same Github repo folder.
+6.  The code should be able to run in a single Python file, so I have not broken it up into multiple files.
+7.  Once DJ gets the code from me, he will simply take the .zip file from Github and put it into a repo of his choice, then run the code in a Python environment of his choice.  Therefore, I have only saved the original .csv files that the code generated AND the original SQLite database that the code created into an Original_Data folder in my repo for DJ's reference.
+8.  Once this code was completed, it would need to be run on some time table regularly to update the data, so to simulate this requirement I've also put a .bat file into the repo to show how a Task could be set up to run the code hourly and update continually for reporting / analytical purposes.
+9.  Now that I've spent 3 days coding, DJ will hire me immediately and pay me beyond my wildest dreams.  (just kidding, but I do hope he reads this file and appreciate the effor I put into his assessment).
+----------------------------------------------------------------------------------------------------------------------------------
 
 The Relational Tables
 There are CSV files representing each table in the schema:
