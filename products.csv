@@ -1,1 +1,504 @@
-barcode,product_name,brand,packaging,create_t
+barcode,product_name,brand,packaging,create_t,last_modified_t,quantity,labels,ecoscore_score,nova_group
+7622210449283,Prince Goût Chocolat,lu,"Packet,Hdpe film-packet,Etui en carton,Film en plastique",1443988064,1753259979,100g,Triman,31,4
+3046920029759,Excellence Noir Prodigieux 90% Cacao,lindt,"en:Aluminium wrap,en:Box cardboard,en:Caja de cartón,en:Card-box,en:Foil-wrapper,es:Recipiente,pt:Papel de aluminio,Étui carton,Feuille aluminium",1348995410,1752831459,100 g,"Groene Punt,Triman",29,3
+6111031005064,Tonik,bimo,,1724094916,1754122309,22 g,fr:Tonik,66,2
+3175680011480,Sésame,gerble,"Cardboard,Plastic",1360951415,1753281928,230g,"No preservatives, Made in France, Natural flavors, No colorings, No palm oil, Nutriscore, Nutriscore Grade B, Triman, en:green-dot",57,4
+20995553,Dark Chocolate 85% Cocoa,j-d-gross,"Cardboard,Non-corrugated cardboard",1556354695,1753701454,125g,"Vegetarian,Fair trade,Fairtrade International,No artificial flavors,Vegan,Fairtrade cocoa,FSC,FSC Mix,Max Havelaar",43,4
+3362600011044,Henry’s,henry-s,Plastique,1513789538,1738845039,42g,,55,4
+8425197712024,,maruja,"Métal,Papier,en:Recyclable Metals,Aluminium",1482948213,1745147085,150 g,"Green Dot,Made in Spain,Ce",,4
+7622210578464,Organic 70% Dark Chocolate Bar,green-black-s,Paper/Foil,1550493371,1751977023,90g,"Commerce équitable,Bio,Végétarien,Bio européen,Fairtrade International,Végétalien,PL-EKO-07,en:Soil Association Organic,The Vegan Society,en:Commerce équitable",40,3
+6111259343108,KING COOKIES,excelo,,1608169426,1748677560,,Green Dot,50,
+3362600011228,Sable coco Henry s 42g,henry-s,Plastique,1522578754,1738845211,42g,,58,4
+8000500310427,Biscuits croquants au coeur onctueux de Nutella®,"ferrero, nutella","Plastique,O 7 - Autres plastiques",1548751374,1753087658,304 g,Ponto Verde,44,4
+7300400481595,Tartine croustillante Authentique,"barilla, wasa","Papier,Enveloppe,en:Package paper,en:Paper recycling",1436854915,1753762309,275 g,"Bio,Point Vert,Triman, Végétarien",,3
+3046920022651,Excellence Noir Intense 70% Cacao,lindt,"Métal,Carton,Métaux recyclables,Aluminium",1462636415,1754312863,100 g,"Sans conservateurs,Fabriqué en France,Triman,Lindt & Sprüngli Cacao Farming Program",29,3
+5060042641000,Lightly Sea Salted,tyrrell-s,"en:MixedPlasticFilm-packet,en:mixed plastic film-packet",1366890201,1747593802,150 g,"Sans gluten,Végétarien,Sans arômes artificiels,Végétalien,Assured Food Standards,Point Vert,Sans colorants artificiels,Sans exhausteur de goût,Sans glutamate,Triman,en:Made-in-england,en:Terracycle",83,3
+7622210584724,Dark chocolate,green-black-s,"1 film to recycle, 1 paper wrap to recycle, en:paper-wrapper, en:foil-wrapper",1562679146,1741270306,90g,"Commerce équitable,Bio,Végétarien,Bio européen,Fairtrade International,Agriculture non UE,Végétalien,FR-BIO-01,en:FSC,FSC Mix,Point Vert,Max Havelaar,PL-EKO-07,en:Soil Association Organic,The Vegan Society",55,3
+3046920022606,Excellence Noir Puissant 85% Cacao,lindt,"fr:emballage carton,fr:papier aluminium",1462865556,1748943335,100g,"Agriculture non UE,Fabriqué en Belgique,Fabriqué en France,Sans huile de palme,Triman",29,3
+3229820100234,Fourrés Chocolat Noir,bjorg,"Étui,Carton,Plastique,Sec,Film",1366110700,1754407735,225 g,"Organic,EU Organic,Non-EU Agriculture,Certified B Corporation,EU Agriculture,EU/non-EU Agriculture,FR-BIO-01,No palm oil,Pure cocoa butter,AB Agriculture Biologique,fr:Farine de blé français",70,4
+20022464,Extra dark chocolate 74% cacao,fin-carre,"Plastikowe,Mixed plastic-packet,Sachet plastique de 3g,",1342650111,1752729032,100 g ℮,"Vegetarian, Fair trade, Fairtrade International, Vegan, Fairtrade cocoa, Pure cocoa butter, Rainforest Alliance, Commerce-equitable, en:rainforest-alliance-cocoa",40,4
+3362600011006,Henry’s,henry-s,Papier,1518647490,1738845015,85 g,Halal,64,4
+6111259341197,Momo black,excelo,,1575320881,1743061856,36 g,en:Unknown,40,4
+5410041001204,Original,"mondelez, tuc",Plástico,1342889958,1753972925,100 gram,,62,4
+3046920028004,Excellence 70% Cocoa Intense Dark,lindt,"Aluminium-wrapper,Card-carton,Container",1341598583,1754385599,100 g,"Vegetariano,Vegano,Ponto Verde,Fabricado em França",29,3
+6111259340992,Eyoo cover,excelo,Plastique,1612354382,1742797083,52,,32,4
+06175700,Tartines craquantes au sarrasin imp,"ekibio, le-pain-des-fleurs","Plastic,Cardboard",1595696689,1744975050,160 g,"Commerce équitable,Sans gluten,Bio,Végétarien,Bio européen,Kascher,Végétalien,Point Vert,The Vegan Society,AB Agriculture Biologique,Afdiag",95,3
+3175681851849,Pomme 🍏 🍎 Noisette🥜,gerble,R PENSEZ AU TRI ! FILM PLASTIQUE ETUI CARTON À JETER O A RECYCLER,1374255877,1742582820,230 g,"Peu ou pas de sucre, Peu de sucre, Pauvre ou sans sodium, Sans conservateurs, Agriculture non UE, Allégé en sucre, Riche en vitamine E, Source de fibres alimentaires, Agriculture durable, Enrichi en vitamines, Agriculture UE, Agriculture UE/Non UE, Riche en fibres, Faible teneur en sodium, Fabriqué en France, Arômes naturels, Sans colorants, Sans colorants ou conservateurs, Sans huile de palme, Nutriscore, Nutriscore A, Riche en vitamine B1, Riche en vitamine B9, Source de vitamine B6, Sans édulcorants, Farine de blé français, Triman",60,4
+6111252860077,Trios,aperitivos-company,,1552261744,1748385396,20g,Point Vert,,4
+3046920028363,Excellence 85% Cacao Rich Dark,lindt,"Cartão,Papel cartonado,es:Caja de cartón,Papel de aluminio,ro:Produkt",1342037422,1753402898,100 g,"Zelený bod,Vyrobeno ve Francii,Veganské",26,3
+6111245591063,Dalaa 550 feuilles,,,1559422670,1751668642,,,,
+20095291,Dark Chocolate 70%,"j-d-gross, lidl","22 PAP,en:Cardboard,23 PBD,en:Card-box,en:Stück,nl:FSC Mixte carton",1342649387,1752072519,125g,"Végétarien,Commerce équitable,Végétalien,Union Végétarienne Européenne,Union Végétarienne Européenne Végétalien,Fairtrade cocoa,FSC,FSC Mix,Point Vert,Pur beurre de cacao",16,4
+80176800,Nutella,"ferrero, nutella","Staklo,en:Jar,en:Glass-jar,en:Mixed plastic-film,en:Pp-lid,fr:couvercle plasticle,fr:pot en verre",1401619775,1753202222,750g,Произведено в Полша,30,4
+5053990156009,Pringles Original,pringles,Bisnaga,1582461760,1752852230,175 g,"Vegetariano,Vegano,Tidy man,Triman",,4
+8410076801180,Crunchy oats & honey,nature-valley,en:hdpeFilm-packet,1607720821,1754400250,42 gram,,,4
+3251490332080,Figue & son,gerble,"Plastic,Box,Cardboard,fr:Boîte en carton sachet en plastique,fr:Etui en carton,fr:Film en plastique",1379153284,1751980314,210 g,"Sans conservateurs,Source de fibres alimentaires,Riche en fibres,Fabriqué en France,Sans colorants,Sans huile de palme,Nutriscore,Nutriscore A,Triman",60,4
+3046920028721,Bitter Extra Kraftig,"lindt, ลินด์","Kunststoff,en:Container,fr:Barquette en plastique,fr:Etui en carton,fr:Film en plastique",1380743001,1753084625,50 g,"EAC,Point Vert,Fabriqué en France,Pur beurre de cacao,Triman,de:groene-punt",24,3
+7613035040823,Nestlé Dessert,nestle,"Metall,Wiederverwertbare Metalle,Aluminium,en:Barquette,en:Boîte,en:Papier",1433065227,1753076142,205g,"Nestlé Cocoa Plan, Nutriscore, Nutriscore Grade E, Pure cocoa butter, Rainforest Alliance, Triman",43,4
+6111259342828,Petit beurre,be,Glass,1617103920,1751530972,60g,,53,4
+3256540000698,Pains au lait x10,pasquier,"Plastique,Sachet,Clip en plastique,Clip et sachet plastique à jeter,Pensez au tri!,Point vert,Sachet en plastique",1424944949,1749291103,350 g,"Sans conservateurs,Lait Français,Point Vert,Fabriqué en France,Nutriscore,Nutriscore C,Farine de blé français",71,4
+3045140105502,Chocolat au lait,milka,"Plastique,Étui",1349035684,1754312765,100 g,"Cocoa Life,Fabriqué dans l'UE,Triman",26,4
+3284230006408,Brioche Tranchée Bio 400g,la-boulangere,"Film en plastique,Sachet plastique",1485808955,1736316194,400 g,"Commerce équitable,Bio,Bio européen,Plein air,Sans arômes artificiels,Agriculture non UE,1% pour la planète,Agriculture UE,Agriculture UE/Non UE,Commerce équitable Bio,FR-BIO-01,Œufs de poules élevées en plein air,Oeufs de France,Point Vert,Fabriqué en France,Sans colorants,Nutriscore B,AB Agriculture Biologique,Agri-Éthique France",69,4
+6111259343344,King cookies choco,excelo,,1651269382,1748746294,,,37,
+10614594,Granatapfel Sauerkirsche Fruchtgummi,sweet-land,,1693758410,1753644284,,"Vegetarisch, Vegan",,
+40896243,Bio Chocolat Noir Cacao 70%,fairglobe,"Metal,Cardboard,Sheet,Sleeve",1534511932,1752173236,100 g,"Commerce équitable,Bio,Végétarien,Bio européen,Fairtrade International,Agriculture non UE,Végétalien,EG-Öko-Verordnung,DE-ÖKO-003,Union Végétarienne Européenne,Union Végétarienne Européenne Végétalien,Max Havelaar,Nutriscore,Nutriscore E,AB Agriculture Biologique,Triman",53,4
+20815394,Fruit & Nut Mix,"alesto, lidl","Tüte,07 LDPE/OPP/PET",1484144730,1745531907,200 g,"Nutriscore, Nutriscore Grade B",45,3
+3046920029780,Doux 70% noir subtil,lindt,"Metall,Wiederverwertbare Metalle,Aluminium,Tablettverpackung,en:container",1526828413,1750124298,100 g,"Triman,Made in Switzerland",29,4
+3587220002252,La gâche tranchée,la-fournee-doree,"Plastic,Bag,fr:Film en plastique",1477818675,1751189942,500 g,"Sans conservateurs, Point Vert, Fabriqué en France, Sans huile de palme, Pur beurre",49,4
+5053990101597,Sour Cream & Onion,pringles,"en:Box,en:Container",1415119614,1753805694,165 g,"Wegetariańskie,Nutriscore,Nutriscore A",67,4
+8410510012196,Chocolat Noir 92% cacao,dark-excellente,,1660685390,1737907641,100 g,,15,4
+5410126006957,Biscoff Creamy,lotus,"Verre,Carton,",1336939462,1748761615,400 g,"en:Sustainable,Huile de palme durable,Point Vert,Sans colorants,Sans arômes ajoutés",,4
+7622210601988,Granola L'Original,"lu, mondelez-international","fr:sachet plastique,fr:étui carton",1464966440,1753086283,200 g e,"Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Fabriqué en France,Sans colorants,Triman,en:Ble-francais",40,4
+3041090063206,Cracotte Céréales Complètes,lu,"Plastic,Cardboard,fr:Boîte carton,fr:Etui en carton,fr:Plastique à jeter,fr:Sachet en plastique,fr:Étui carton à recycler",1415379643,1753774292,250,"Distributor labels, No preservatives, Charte LU Harmony, Made in France, No colorings, en:green-dot",64,4
+80052760,2 Bars Milk and Hazelnuts,"kinder, kinder-bueno","Plastikowe,PP 5 - polipropylen,en:Plástico",1380626509,1753514218,"43 g (2 x 21,5 g)",Green Dot,22,4
+5059697731860,Ecuador dark chocolate,tesco-finest,,1705343818,1751100689,100g,Rainforest Alliance,30,4
+5017764128104,Chips,kettle,en:mixed plastic film-packet,1575157941,1753090226,,No gluten,73,3
+5053990101573,Pringles Sare,pringles,Container,1405245720,1754241498,165 g,"Vegetarian,Vegan,Green Dot",72,4
+3362600001106,Henry's Sable Coco Biscuit 85G,henrys,Papier,1516646272,1740129731,85 g,en:Greendot,67,4
+3041090063114,Cracotte,lu,"fr:Carton recyclable,fr:Plastique jetable",1351938765,1753293649,7.35 gram,"Distributeur-labels,Conserveermiddelvrij,Charte LU Harmony,Groene Punt,Geproduceerd in Frankrijk,Zonder kleurstoffen,Triman",73,4
+3175681851856,Biscuit raisins,gerble,"Carton,Plastique",1405858806,1744978812,270 g,"Sans conservateurs,Fabriqué en France,Sans colorants,Sans huile de palme,Nutriscore,Nutriscore A",69,4
+3229820794525,Nutri+ avoine chocolat,bjorg,"Plastique, Sachet, Sachet individuel, Boite en carton",1492777649,1739955989,130 g,"Organic,EU Organic,Non-EU Agriculture,Certified B Corporation,EU Agriculture,EU/non-EU Agriculture,Made in France,No palm oil,Nutriscore,Nutriscore Grade C,AB Agriculture Biologique",61,4
+3061990143365,Biscuits goût chocolat,"bn, united-biscuits","1 cartonnette,1 étui",1610291852,1753305498,285 g,"Sans conservateurs,Sans colorants,Sans matière grasse hydrogénée,Triman,Blé français,Sans colorants et conservateurs artificiels,Fabriqué en France",35,4
+5000168036755,digestives,mcvitie-s,"Mixed plastic film-wrapper, en:mixedPlasticFilm-packet",1675414186,1754141748,360g,Contains palm oil,44,4
+3228857001231,Harrys brioche tressee nature au sucre perle sans additifs 500g,harrys,"Sachet, Enveloppe, Sachet en plastique",1568471297,1753538951,500 g,"No additives, Nutriscore, Nutriscore Grade B, Triman, en:no-palm-oil, Végétarien",47,4
+8410076610737,Protein Cacahuetes🥜 & Chocolat🍫,nature-valley,Carton,1552767650,1748510099,160 g (4x40 g),"Sans gluten, Sans conservateurs, Sans colorants",,4
+06153153,Tartines craquantes quinoa - pois chiche,jardin-bio,,1600189545,1744646099,,"Sans gluten, Bio, Épi barré, Bio européen, 1% pour la planète, DZG glutenfrei, FR-BIO-01, Fabriqué en France, Sans sucre ajouté, Nutriscore, Nutriscore A, AB Agriculture Biologique, Triman",95,3
+5013665111610,Lightly Salted Low Fat Corn Cakes,kallø,en:unknown-packet,1457741577,1744366034,,"No gluten,Vegetarian,Vegan,Made in Belgium,Certified B Corporation",72,3
+5000159461122,,snickers,"Plástico,Invólucro",1389202679,1747765642,50 g,"Ponto Verde,Tidy man,en:Contains soy,en:Contains milk",,4
+7622201133337,Figolu,lumondelez,"Sachet,Barquette,Carton",1586948700,1753087714,192 g (12 x 16 g),"triman, en:sans-arômes-ajoutés, fr:sans-colorants, fr:sans-conservateurs",49,4
+8434165466333,Krit krititas galletas saladas,cuetara,"Plástico, PET, Green dot",1543532619,1748113467,350g,Punto Verde,64,4
+5053990155354,Sour Cream & Onion,pringles,"Plastique,Carton,Couvercle,Opercule,Tube",1582113936,1744907993,175 g,"Vegetariano,Ponto Verde,Triman",67,4
+6111259347021,,,,1709380003,1739983472,,,50,4
+8410076601131,Crunchy avoine et miel,nature-valleygeneral-mills,"Plastique,Boîte,Carton,Boîte en carton,Emballage carton,Etui en carton,Film en plastique,Film plastique à jeter,Pensez au tri!,Point vert,Étui carton à recycler,nl:Triman",1472907669,1752388163,"210 g, 5 barres doubles de 42 g","sans-conservateurs, sans-colorants, triman, fr:sans-lactose, point-vert, sans-colorants-ou-conservateurs, fabriqué-en-espagne",,4
+6111242380219,,حلال,,1515849173,1740129776,1 klg,,,
+3175680011534,Biscuit lait chocolat,"gerble, gerble-vitalite, nutrition-sante","Plastic,Box,Dry,fr:Etui en carton,fr:Sachet en plastique",1363383017,1750784111,230 g,"Low or no fat, Low fat, No preservatives, Reduced fat, Source of fibre, Sustainable farming, Calcium source, EU Agriculture, Green Dot, High fibres, Made in France, Magnesium source, Natural flavors, No colorings, No dyes or preservatives, No palm oil, Nutriscore, Nutriscore Grade C, UTZ Certified, UTZ Certified Cocoa, Vitamin B6 source, Vitamin B9 source, Vitamin E source, fr:Farine de blé français, fr:Ble-durable, en:rainforest-alliance-cocoa",74,4
+4014400400007,toffifee,storck,"Kunststoff,PET - Polyethylenterephtalat,PP - Polypropylen,Papier,Pappe,Ungewellte Pappe",1368216921,1754130253,125g,,,4
+8410076601148,Crunchy Avoine & Chocolat Noir x 5 x 2 barres de 21 g,"general-mills, nature-valley","Plastique,Carton,Film plastique à jeter,Pensez au tri!,Point vert,Étui carton à recycler,nl:Triman",1473946735,1752746998,210 g,"Végétarien,Sans arômes artificiels,Sans conservateurs,Point Vert,Sans colorants,Sans colorants ou conservateurs,Sans lactose,Triman",36,4
+3175681105423,Cookie🍪 cacao pépites Sans Sucre,gerble,"Caja,fr:Etui en carton,fr:Film en plastique",1364148196,1753524301,130 g,"Low or no sugar, Sustainable farming, Made in France, No added sugar, No palm oil, No sugar, Nutriscore, Nutriscore Grade A, UTZ Certified, Triman, en:source-of-fibre",56,4
+5059697710001,Dark milk chocolate,tesco,,1705233842,1738674425,100g,"Vegetarian,Rainforest Alliance,Rainforest Alliance Cocoa,transparence cacao",48,3
+16811207,petit déjeuner miel et pépites de chocolat,belvita,"en:aluminium-packet, en:card-tub",1519995222,1751347673,435 g,"Vegetarian, No gluten, Organic, EU Organic, Non-EU Agriculture, Vegan, Cocoa Life, Green Dot, PL-EKO-07, Pure cocoa butter, The Vegan Society, en:crossed-grain-trademark",71,4
+3175680011442,Biscuit soja orange,gerble,"Plastic, Container, Dry",1410359514,1751980276,280 g,"Low or no sugar, Low sugar, No preservatives, Reduced sugar, 40% less sugar, Made in France, No palm oil, Nutriscore, Nutriscore Grade B, fr:Farine de blé français, en:no-colorings",64,4
+5000168198491,Sablés Anglais L'Original,"mcvitie-s, united-biscuits","Plastique, Carton, Film plastique à jeter, Pensez au tri!, Étui carton à recycler",1493754745,1754080506,400 g,"Vegetarian,No artificial flavors,No artificial colors,No artificial colours or flavours,No colorings,Tidy man,Triman,Riche-en-cereales,Verified,fr:Fabriqué au Royaume-Uni",53,4
+3229820021027,P'tit Nature Complet,bjorg,"Plastique,Papier,Paquet,Etui en carton,Sachet en plastique",1527270190,1753457473,200 g,"Bio,Ecocert,Bio européen,Source de fibres alimentaires,Entreprise B certifiée,Agriculture UE,FR-BIO-01,Riche en fibres,Fabriqué en France,Source de magnésium,Sans huile de palme,Nutriscore,Nutriscore B,Source de phosphore,AB Agriculture Biologique,Blé français,Triman,Au blé complet",70,4
+3046920010047,Excellence Noir Corsé 78% Cacao,lindt,"Métal,Pot,Métaux recyclables,Aluminium,Barquette,en:Card-packet,en:Container,es:Tableta",1489830255,1753402904,100 gram,"Triman,Lindt & Sprüngli Farming Program",29,3
+5053990161669,Картофельные чипсы со вкусом парики,pringles,,1641487596,1753685601,165g,"Vegetarian,Green Dot,With Sunflower oil",67,4
+3228857001378,Brioche moins de sucre,harrys,"Enveloppe,Sachet en plastique",1582538051,1753606047,485 g,"Peu ou pas de sucre, Peu de sucre, Allégé en sucre, Moins 30% de sucre, Fabriqué en France, Sans additifs, Sans huile de palme, Nutriscore, Nutriscore B, Triman",49,4
+6111025120605,Chocolat monogram,macao,,1570734500,1732386476,,Pur beurre de cacao,15,4
+5013665115373,Lentil & Pea Veggie Cakes - Beetroot & Balsamic,kallø,,1601207407,1742531552,122 g,"No gluten,Rich in vegetable protein,High fibres,Vegetarian,Vegan,Certified B Corporation",72,4
+5053990167807,Pringles Original,"kellogg-s, pringles",TUBE RECYCLE AT RECYCLING POINT Recycie Don't recycle at home & SEAL Don't Recycle lo for further recycling guidance,1648208266,1753622122,185g,"Vegetarisch, Vegan, Mit Sonnenblumenöl",,4
+3229820181950,Fourrés Chocolat Au Lait,bjorg,fr:Film en plastique,1378574003,1736349056,225g,"Organic, Certified By Ecocert, Eu Organic, Noneu Agriculture, Certified B Corporation, Eu Agriculture, Eu/noneu Agriculture, Frbio01, Made In France, No Palm Oil, Nutriscore, Nutriscore Grade D, Ab Agriculture Biologique, Sourceoffibre",70,4
+5053990107339,Pringles,"pringles, pringles-original","Box, en:aluminium-can",1429616006,1753967000,40g,"Végétarien, Végétalien, Point Vert, Triman",69,
+8410376026962,Digestive Avena Choco,gullon,"Plástico,Caja,Recipiente",1436357288,1751980348,425 g,Green Dot,41,4
+6111032006718,,danone,,1537141052,1748652794,80g,,,
+8410510012202,,dark-excelente,,1695138496,1731695689,100 g,"No gluten, Green Dot",15,4
+7622210995087,180G C OR NOIR NOISETTE,"cote-d-or, mondelez","Métal,Métaux recyclables,Aluminium,Étui,Papier cartonné",1466977241,1750767606,180 g,"Cocoa Life,Fabriqué en Belgique,Triman",29,4
+80135876,,"ferrero, nutella","en:Borcan de sticlă,en:Capac de aluminiu,en:Capac de plastic",1422446383,1753200030,400 g,Sem glúten,26,4
+8000500023976,Coco specialty,"confetteria-raffaello, ferrero","Cardboard,Non-corrugated cardboard,5PP,Green Dot",1503852688,1754139100,150 g,"Ponto Verde,Tidy man",,4
+5060088707685,Barres de fruits secs & noix Myrtilles,nakd,"Cardboard,fr:Sachet Plastique Individuel",1537335181,1752518198,140 g,"No gluten, Vegetarian, Kosher, No preservatives, Source of fibre, Vegan, 100% natural, FSC, FSC Mix, Green Dot, No added sugar, No lactose, Triman, en:kashrut-division-of-the-london-beth-din",,4
+6111031005033,Tagger,bimo,,1711018764,1751366936,22g,,33,4
+3175681209282,Goûter 4S Saveur pommes,gerble,Carton,1484062889,1753457324,360 g,"Low or no sugar, Low sugar, Reduced sugar, Made in France, No colorings, Nutriscore, Nutriscore Grade A, Without sweeteners, Triman, en:no-palm-oil",55,4
+5000119117359,Wheat Biscuits,tesco,en:card-box,1594280922,1748711365,n.48 - 912g,"Vegan,Vegetarian",38,3
+5060088700112,Protein Cocoa Hazelnut Bars,nakd,,1686049990,1753013678,135 g,"No gluten, Vegetarian, Kosher, Vegan, FSC, FSC Mix, No added sugar, No lactose, No milk, Triman, en:kashrut-division-of-the-london-beth-din",50,4
+7622210476296,Thé - Biscuits,lu,"Plastique, Sachet, Carton, Paquet, Barquette à recycler, Point vert, Sachet à jeter",1524504048,1753192768,350 g ℮,"Labels de distributeurs,en:Charte LU Harmony,Fabriqué en France,Blé français,Triman",46,4
+3178530410105,Petites Madeleines,st-michel,en:Film en plastique,1442592704,1752847831,500 g,"Vrije uitloop,Conserveermiddelvrij,Vrije uitloop eieren,Geproduceerd in Frankrijk,Zonder kleurstoffen,en:No hydrogenated fats,Zonder palmolie,Nutriscore,en:Blé français",63,4
+3251490307002,Goûter pépites de chocolat,gerble,"Box,Cardboard,fr:Sachet plastique",1367165999,1748644143,"3 sachets de 4 biscuits, 250g","Fabriqué en France,Sans colorants,Nutriscore C,Rainforest Alliance,Sans huile de palme",52,4
+5060042641406,Sea salt & cider vinegar chips,tyrrell-s,"en:Mixed plastic film-packet,Sous atmosphère protectrice,Plastiques mixtes,Sachet",1397241642,1754061948,150 g,"Vegetarian,No gluten,Triman,Red-tractor-certified-potato,Assured Food Standards",83,4
+7622210204424,Príncipe crema de chocolate,lu,Plástico,1439040690,1753966684,300 g,"Fuente de fibra alimentaria,Punto Verde",27,4
+80761761,Kinder Bueno White,"ferrero, kinder","Plastic, PP 5 - Polypropylene, en:mixed plastic film-packet",1402050364,1754135255,39 g,Triman,12,4
+5060283762199,PROPERCHIPS Sea Salt Lentil Chips,proper,,1570837358,1751477238,100 gram,"No gluten,Vegetarian,Vegan",73,3
+7622201809638,napolitain,"lu, mondelez, napolitain","Plastique,Carton,Sachet,Sec,Sachet individuel,Étui",1614430281,1754301764,180 g (6 x 30 g),"Labels de distributeurs, en:Charte LU Harmony, Fabriqué en France, Pur beurre de cacao, Triman",,4
+6923818881323,Petits fours financiers,,,1543157741,1644756555,500 g,,32,
+3175681066632,Biscuits pavot citron,gerble,,1366890619,1742819565,200 g,"Peu ou pas de sucre,Peu de sucre,Allégé en sucre,Source de fibres alimentaires,Moins 45% de sucre,Fabriqué en France,Source de magnésium,Arômes naturels,Sans colorants,Sans huile de palme,Nutriscore,Nutriscore B,Farine de blé français,Triman",61,4
+5010265002836,The Original Crunchy Rye Breads,ryvita,Plastic,1434106840,1754397477,250 g,,72,3
+5053990127726,Pringles Original,pringles,"Plastique,Carton,Tube,en:Pp-lid,en:card-tube,Pp-tube,it:Aluminum,Boîte",1495657310,1753701181,165g,"vegetariano, vegano, punto-verde, senza-olio-di-palma, nl:vegetarisch",74,4
+5060088706534,Blueberry Muffin Myrtilles,nakd,"BOX Recycle 
+FILM RECYCLE WITH BAGS AT LARGE SUPERMARKET Don't recycle at home UK Only FSC www.fsc.org MIX Packaging Supporting responsible forestry FSC* C148683",1540333904,1745230027,4 x 35g,"No gluten, Vegetarian, Kosher, Source of fibre, Vegan, Cold pressed, FSC, FSC Mix, Kosher LBD, New, No added sugar, No wheat, Without addition of dairy products, en:kashrut-division-of-the-london-beth-din",,4
+6111031005538,merendina big,bimo,,1733124667,1742806168,52g,merendina,27,
+0612322000127,Super Seeded Oatcakes,nairn-039-s,"en:card-box, en:ldpe-wrapper",1510318253,1753115544,10 gram,"Ecológico,Sin azúcares añadidos,Con aceite de girasol",73,3
+7622210713889,Belvita Original Petit-Déjeuner miel et pépites de chocolat,lu,"Carton,Sachet,Plastique",1495700403,1745426292,440 g,Triman,31,4
+7622210421968,Véritable Petit Écolier Chocolat au Lait,"lu, mondelez-international","1 boîte en Carton à recycler, 2 Sachets en plastique à recycler",1438355611,1753085453,150 g (12x 12.5 g) e,"Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Fabriqué en France,Sans colorants,Triman,Blé français",43,4
+8410376009392,zero sin azúcares Fibra,gullon,Pack,1494779095,1754300269,170 g,"Baixo ou nenhum açúcar,Vegetariano,Source of fibre,Vegano,União Vegetariana Europeia,Ponto Verde,Rico em fibras,Sem açúcar,Nutriscore,Nutri-Score grau B,Com adoçantes,es:Recicla amarillo,es:Recicla azul,Ecoponto amarelo,Ecoponto azul",54,4
+7622210713780,Belvita Petit Déjeuner Chocolat,"lu, mondelez","Boîte,Sachet individuel",1494701130,1748267190,400 g,"Végétarien,Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Sans colorants,Sans colorants ou conservateurs,Triman",44,4
+5060283760072,Proper Corn Sweet & Salty,popper-corn,Mixed plastic-packet,1473709972,1754304217,28 gram,"No gluten, Vegetarian, Vegan",73,4
+4056489471264,Edelbitter Mild 90%,"j-d-gross, lidl",3 FSC MIX Board FSC C021442 ܀ 4 ܝ C/PAP PAP,1639924487,1752482399,125 g,"Vegetarisch,Fairer Handel,Fairtrade International,Vegan,Fairtrade kokao,FSC,FSC Mix,Max Havelaar,Reine Kakaobutter,Triman,V-Label International Vegan",34,4
+3017760000062,Véritable Petit Beurre Pocket,lu,"Bag,Cardboard,Individual bag,fr:Film en plastique,fr:Sachets plastiques,fr:Snack",1351277169,1753092609,300 g,"Distributor labels,No preservatives,Charte LU Harmony,Green Dot,Made in France,No colorings,Triman",72,4
+3336971805021,Chips de lentilles saveur fines herbes,vico,"Plastique,Sachet,Film en plastique,Pensez au tri!,Point vert,Sachet plastique à jeter",1536923158,1753111174,85 g,"Sans colorants,Sans huile de palme,Nutriscore",72,4
+20713713,Chocolat noir Equateur Bio,j-d-gross,"Metaal,Recyclebaar metaal,Aluminium,Karton,Tray,fr:Etui carton et feuille metal à recycler,fr:Etui en carton,fr:Feuille en métal,fr:Pensez au tri!,fr:Point vert,FSC C022488,FSC Mix Board",1474563908,1746915677,100 g,"Commerce équitable,Bio,Bio européen,Agriculture non UE,FR-BIO-01,Nutriscore,Nutriscore D,AB Agriculture Biologique,Triman",49,2
+3251490320001,Biscuit complet au germe de blé,gerble,"fr:Film en plastique, fr:boite carton, fr:sachet plastique individuel, fr:Etui en carton",1350240278,1752116586,210 g,"sustainable, sustainable-palm-oil, green-dot, natural-flavors, roundtable-on-sustainable-palm-oil, triman, aromes-naturels, fr:origine-france, fr:riche-en-calcium, fr:riche-en-fibres, riche-en-magnesium, fr:riche-en-vitamine-b1, fr:riche-en-vitamine-b9, fr:riche-en-vitamine-e, fr:sans-colorants, fr:sans-conservateurs, fr:sans-huile-de-palme, fr:germe-de-blé-ue, fr:nutri-score-b, en:no-palm-oil",54,4
+7622210100917,Milka galette choco,"milka, mondelez","Plastique,Sachet",1383081531,1749575116,260 g,"Point Vert, Triman",32,4
+5050974505259,Multigrain Crunchy Rye Breads,ryvita,Card-box,1550784479,1752503110,250 g,,72,3
+3175681037854,Tartines craquantes sarrasin,cereal-bio,"Plastic,Box,Cardboard,Container,fr:Etui carton à recycler,fr:Etui en carton,fr:Pensez au tri!,fr:Point vert,fr:Sachet à jeter",1384103277,1748371554,145 g,"Organic, EU Organic, No preservatives, Non-EU Agriculture, CZ-BIO-001, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, FR-BIO-10, Green Dot, Made in France, No colorings, Nutriscore, Nutriscore Grade A, AB Agriculture Biologique, Verified, en:low-sugar",95,3
+5060088701478,Cocoa Orange Fruit & Nut Bars,nakd,"Film,Plastic",1524497486,1752518162,4 x 35g,"No gluten, Vegetarian, Kosher, Source of fibre, Vegan, FSC, FSC Mix, Natural product, No added sugar, No milk, en:kashrut-division-of-the-london-beth-din",,4
+3046920027885,Excellence Noir à la Pointe de Fleur de Sel,lindt,"Container, Papier aluminium",1408826061,1748255054,100 g (10 carrés),"Point Vert,Fabriqué en France",29,4
+5060088706022,NAKD Cacahuètes - 140g (4x1p),nakd,"fr:Boîte Carton,fr:Sachet plastique",1524294538,1743089869,140 g,"No gluten,Vegetarian,Kosher,No preservatives,Vegan,100% natural,FSC,FSC Mix,No added sugar,No artificial additives,No lactose,fr:Fsc-c011097,fr:Planeat,fr:Weforest,Green Dot",,
+5000137121994,Cream Crackers,jacob-s,Mixed plastic film-wrapper,1511202129,1746280506,300 g,"Végétarien,Végétalien",62,3
+6111249961466,,excelo,,1689669371,1740594612,,en:No preservatives,50,
+20005719,Pistaches de Californie,"alesto, lidl",1 Bolsa de plástico para reciclar,1394730952,1748658996,250 g,"Sans gluten, Bio, Bio européen, Point Vert, Nutriscore, Nutriscore C, AB Agriculture Biologique, Tidy man",47,3
+4033634061020,Organic Crisp Bread,dr-karg-s,"Plastic, en:pp film-packet",1452939835,1742742350,200 g,"en:German Agricultural Society,Bio,Végétarien,Bio européen,Agriculture non UE,de:DLG Jährlich Prämiert,DE-ÖKO-006,Agriculture UE,Agriculture UE/Non UE,Point Vert,Fabriqué en Allemagne,Sans additifs,AB Agriculture Biologique",92,3
+3228857001316,Brioche Tranchée Recette Classique,harrys,"Envelope,Sachet en plastique",1571729153,1752874064,485 g,"Fabriqué en France,Sans additifs,Sans huile de palme,Nutriscore,Nutriscore C,Triman,Blé français",54,4
+7622210476104,Véritable Petit Beurre 🧈,lu,"Papier,4 sachets individuels,Sachet plastique",1468493523,1747912374,400g (4x100g),"Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Fabriqué en France,Sans colorants,Pur beurre,Triman,Blé français",72,4
+8410076610621,"Sweet & Salty Nut chocolat noir et mélange de noix, 5 barres de 30 g","general-mills-france, nature-valley","Plastique, Carton, Film, Étui, Etui en carton, Film en plastique, Film plastique à jeter, Étui carton à recycler",1519377342,1748432837,150 g ℮,"Vegetarian, No artificial flavors, No preservatives, Green Dot, No colorings, Triman",39,4
+0061232201948,Cheese Oatcakes,nairn-s,Paper-carton,1510318503,1747414127,200 g,"Sans-sucre-ajoute,Sin-grasas-hidrogenadas,Vegetariano,No GMOs,No added sugar,No wheat,No artificial colors,No artificial flavors,No artificial preservativesy,No hydrogenated fats,Vegetarian",61,3
+20005832,Dark Chocolate,fin-carre,"Plastique,PP 5 - Polypropylène,en:Hdpe-packet,en:Mixed plastic-packet",1342648779,1749756765,100 g,"Fair trade,Vegetarian,Fairtrade International,Not advised for specific people,Sustainable farming,Fairtrade cocoa,Green Dot,Made in Germany,Max Havelaar,Not advised for pregnant women,UTZ Certified,UTZ Certified Cocoa",47,4
+20471613,Wholegrain Wheat Bixies,crownfield-lidl,Cardboard box,1534074183,1752139559,720g - 36,"Vegetarian, Green Dot",74,3
+3017760756198,Granola LU,lu,"Barquette en plastique,Paquet en plastique",1349030727,1752475152,184g,"Labels de distributeurs,en:Charte LU Harmony,Triman",27,4
+3168930002987,Lay's Cuites au four nature,lay-s,"Plastique,Sachet,Sachet en plastique",1409588054,1741005250,130 g,"Low or no fat,Low fat,No preservatives,Reduced fat,50% less fat,No colorings,Nutriscore,Nutriscore Grade B",73,4
+5053990167845,Sour Cream & Onion®,pringles,"Metal,Plastic,Paper,Recyclable Metals,Aluminium",1647022270,1743358974,185g,,69,4
+7622210713926,Belvita Brut & 5 céréales complètes,lu,"1 étui en carton à recycler,8 sachets en plastique à jeter,Etui en carton,Sachet en plastique",1495263556,1741080260,"400 g , 8x 4 biscuits","Sans conservateurs,Point Vert,Sans colorants,Triman",54,4
+7622201444327,,clorets,,1626111020,1741964504,1.5g,,,
+6111259347434,Biscotti,excelo,,1728151820,1748348872,60,,55,4
+20815882,Arriba Chocolat noir,j-d-gross,"en:Metal,en:Recyclable Metals,41 ALU,en:container",1489499726,1753868555,125 g,"Vegetariano,Comércio justo,Fairtrade International,Fairtrade cocoa,FSC,FSC Misto,Ponto Verde,V-Label International Vegan,fr:fairtrade-cocoa-programme,Ecoponto-azul",34,3
+3251491787810,Goûter aux raisins,gerble,"Boîte, Carton, Paquet, Etui en carton, Film en plastique, Sachet plastique",1379369956,1705487469,360 g,"Peu ou pas de sel, Peu ou pas de sucre, Peu de sucre, Sans conservateurs, Allégé en sucre, Moins 30% de sucre, Fabriqué en France, Sans colorants, Sans huile de palme, Sans sel, Nutriscore, Nutriscore B, Sans édulcorants, Blé filière durable",63,4
+5053990107384,Pringles sour cream,pringles,"Box,fr:Point vert,fr:Tidyman wastebasket",1436616252,1753967103,40g,"Con aceite de girasol, en:Fabriqué en Belgique, en:Végétarien",72,4
+7622300689124,Granola L'original Gros éclats de chocolat,"granola, lu, mondelez","en:Barquette en plastique,Film plastique à jeter,Barquette PET à jeter",1526573159,1747960237,276 g,"Triman,Charte Harmony",37,4
+7614500010013,Toblerone,dxn,"Paper or cardboard, Cardboard, Box, Non-corrugated cardboard, Card-tube, en:aluminium-film",1334218828,1752934215,100 g,"Sin gluten,Vegetariano,Punto Verde,Hecho en Suiza,Sin TACC",70,4
+7622210580092,Organic Milk Chocolate,green-black-s,"Paper, Film",1566681445,1738674530,90 g,"Organic, EU Organic, Fair trade, Fairtrade International, PL-EKO-07",59,4
+3664346305860,Noir Extra,poulain,Plastic,1525542509,1749392115,100 g,"Fabriqué en France,Pur beurre de cacao,Triman",29,4
+3229820004334,Le cookie Chocolat Noisette,bjorg,"Plastique,Barquette,en:container,Barquette plastique,Etui en carton,Film en plastique",1372845372,1742420048,200 g,"Glutenfrei,Bio,EU-Öko-Verordnung,Nicht EU-Landwirtschaft,Ballaststoffquelle,Zertifizierte B Corporation,EU-Landwirtschaft,EU-/Nicht-EU-Landwirtschaft,FR-BIO-01,Hergestellt in Frankreich,Ohne Palmöl,Nutriscore,AB Agriculture Biologique,Triman",70,4
+6111031003756,Tonik,bimo,"Plastique,",1514284867,1709568920,121 g,,50,4
+3760049796384,Tartines céréales 450g,la-boulangere,Sachet plastique,1482399324,1739532563,450 g,"Commerce équitable,Fabriqué en France,Nutriscore,Nutriscore A,Agri-Éthique France,Électricité verte",75,4
+3362600017619,Spofy,henry-s,Plastique,1540379515,1746280547,50g,,33,4
+8480000142139,Digestive Avena,hacendado,Plástico,1561708312,1747115841,425 g,"Ponto Verde,es:Recicla amarillo,Alto teor em fibra",45,4
+3023470001015,Galettes St Michel au beurre 4X5 - 130g,st-michel,"Plastique,Sachet,Sec,Sachet individuel,Etui en carton",1334174433,1753803884,130 g,"Plein air,Sans conservateurs,Agriculture durable,Œufs de poules élevées en plein air,Point Vert,Fabriqué en France,Sans colorants,Sans matière grasse hydrogénée,Sans huile de palme,Nutriscore,Nutriscore E,Pur beurre,Blé français,Origine France,Triman,Eco-emballage,Terracycle, Végétarien",69,4
+6111259340060,Chocup,excelo,,1521571898,1644188281,30 g,,50,4
+7622210476241,Petit brun extra,"brun, mondelez","Plastique, Carton, PS - Polystyrène, Film en plastique",1457000623,1753093087,300 g,"Blé français,Triman",53,4
+3061990143594,"BN - French Casse Croute Biscuits, 375g (13.2oz)",bn,,1619336861,1748848599,400 g,"Végétarien, Sans conservateurs, Végétalien, Fabriqué en France, Sans colorants",44,4
+3251491787803,Goûter aux écorces confites,gerble,"Sachet,Carton",1528564767,1748713755,360 g,"made-in-france, nutriscore, -88%-de-sel, fr:huile-de-palme-durable, fr:sans-colorants, fr:sans-huile-de-palme, sans-édulcorants, en:no-palm-oil",73,4
+20177201,Шоколад с 6% парченца малини,j-d-gross,"Metall,Wiederverwertbare Metalle,Aluminium,Pappe",1338814524,1752072554,125 g,"Végétarien,Commerce équitable,Fairtrade International,Végétalien,Fairtrade cocoa,FSC,FSC Mix,Point Vert",64,4
+3045140118502,Milka Tablette Noisette,"milka, mondelez","Plastique,Feuille",1329035567,1752081760,100g,"Sans arômes artificiels, Sans conservateurs, Cocoa Life, Sans colorants, Tidy man",33,4
+3175681116832,"Gerblé - Sugar Free Coconut Cookie, 132g (4.7oz)",gerble,"Plastique, Carton, Etui en carton, Sachet en plastique",1402127661,1749406075,132 g,"น้ำตาลต่ำ,Source of fibre,กรีนดอท,en:Made in France,ไม่เติมสี,ไม่ใช้น้ำมันปาล์ม,ไม่มีน้ำตาล,Nutriscore,Nutriscore A,ใช้น้ำตาลเทียม,Triman,fr:Glucoregul",54,4
+6111259346741,Suprême,be-biscuit,,1711678565,1749928467,36 g,,50,
+7622210444141,Biscuits petit déjeuner moelleux aux pépites de chocolat,"lu, mondelez","Plastique,Carton",1452544123,1754139906,250 g,"Point Vert,L'isomaltulose est une source de glucose et de fructose",63,4
+6111249960964,Capri choco,excelo,,1566678989,1740919839,,,55,
+8000500273296,Ferrero Rocher,ferrero,LE TRI +FACILE ELEMENTS D'EMBALLAGE BAC DE TRI,1605367454,1753721274,375 g,Triman,,4
+20177218,NOIR DEGUSTATION 70% CARAMEL,"j-d-gross, lidl, lidl-j-d-gross","Cardboard,Non-corrugated cardboard,Paperboard,Point vert,Triman,fr:étui:carton",1422623053,1754152756,125 g,"Fair trade, German Agricultural Society, Fairtrade International, Green Dot, Made in Germany, Pure cocoa butter, Triman, de:Dlg-jahrlich-pramiert, en:fairtrade-cocoa",44,4
+3046920029681,,lindt,"Métal,Métaux recyclables,Film Aluminium,Étui carton",1513540215,1748256596,100 g,"Fabriqué en France,Fabriqué en Allemagne,Pur beurre de cacao,Triman,Chocolates,Cocoa-and-its-products,Dark-chocolates,Food,Snacks,Sweet-snacks",38,3
+3178530402728,La Madeleine Pur beurre,bonne-maman,"Plastique,Sachet",1335378052,1754218718,300 g (12 sachets individuels),"Point Vert, Fabriqué en France, Au beurre frais",49,4
+6111031005095,,bimo,,1672226547,1733421414,41g,,32,4
+5060088705940,Blueberry Muffin,nākd,"Paquet,Enveloppage,en:Mixed plastic-wrapper",1516985747,1752287587,35 g,"No gluten, Vegetarian, Vegan, No added sugar, Verified, en:kashrut-division-of-the-london-beth-din",,4
+3034470003107,Benco Original,benco,"fr:Couvercle en plastique,fr:Opercule papier,fr:Pot en plastique",1340072811,1744207592,400g,"Sans gluten,Nutriscore,Nutriscore B,Triman,Vitamine B1,Phosphore,Magnésium",37,4
+6111180010414,Chocao energie,,,1543097573,1720738470,,,4,4
+20337292,Pistacchi,alestolidl,"Plastic, PE - Polyethylene, LDPE - Low-density polyethylene, Tüte, en:mixed plastic film-packet",1463318182,1744036207,250 g,"Peu ou pas de sel,Végétarien,Végétalien,Point Vert,Fabriqué en Allemagne,Sans sel ajouté,en:grüner-punkt",33,3
+5053990127740,Pringles,pringles,"container,Tube,card-tube,pp-lid",1496949874,1754037405,165g,"Point Vert,Végétarien",71,4
+5601363006668,Pelotazos futebolas,cheetos,,1535195672,1746367074,32g,No gluten,67,4
+5060482840179,Apple & Raisin Oat Bars,deliciously-ella,"en:card-box, en:paper-wrapper",1548528545,1742892687,3 x 50g,"No gluten,Vegetarian,Vegan,Source of fibre,No additives,No preservatives",64,3
+8410076801197,"Crunchy Oats and Dark chocolate, 2 Barres de 21 g",nature-valley,en:mixed plastic-packet,1608379016,1753918107,42 gram,"Sans conservateurs, Sans colorants, Sans lactose, Triman, Sans arôme articiel",,4
+3229820794532,Nutri+ avoine complet,bjorg,"Plastique,Carton,Sec",1494678174,1753194751,130 g (3 x 4 biscuits),"Low or no sugar,Low sugar,Organic,Certified by Ecocert,EU Organic,Non-EU Agriculture,Reduced sugar,Source of fibre,Certified B Corporation,EU Agriculture,EU/non-EU Agriculture,FR-BIO-01,High fibres,Made in France,No palm oil,AB Agriculture Biologique,fr:planet-score",74,3
+5060198820052,Peter's Yard Original Sourdough Crackers,peter-s-yard,,1570103512,1742513014,90g,"FSC,No palm oil,High fibres,Green Dot",81,3
+6111017042403,,aiguebelle,,1524569736,1747237282,,Pur beurre de cacao,29,4
+8434165437418,Cuetara Digesta Light 200G Marie Cookies,cuetara,,1510034713,1753449354,200g,"Végétarien,Végétalien,Sans sucre ajouté",50,4
+6111017046470,délice noir,aiguebelle,,1615819696,1748382746,,en:pure-cocoa-butter,15,
+8000500267035,Cacao,"kinder, kinder-delice","Plástico,O 7 - Outros plásticos",1496346886,1754290984,39 g,"Ponto Verde,Triman,es:Recicla amarillo",32,4
+8410376009415,Chip Choco zero sin azúcares,gullon,Plástico,1415271574,1751157039,125 g,"Baixo ou nenhum açúcar,Source of fibre,O consumo excessivo pode ter efeitos laxantes,Ponto Verde,Sem açúcar,Com adoçantes,Nutri-Score grau C",42,4
+3175681257566,Gingembre saveur citron 🍋,gerble,"Métal,en:Recyclable Metals,Aluminium,Carton,Aluminium léger",1568729657,1749405000,132 g,"Bio,Bio européen,Agriculture non UE,Agriculture UE,Agriculture UE/Non UE,FR-BIO-01,Fabriqué en France,Sans huile de palme,AB Agriculture Biologique,Blé filière durable,Nutriscore B",78,3
+3760020508012,Tartines craquantes Sarrasin,"jardin-bio-etic, jardin-bio","Plastic,Bag,Sleeve,fr:Conteneur,fr:Etui en carton,fr:Green dot,fr:Pensez au tri!,fr:Sachets plastique à jeter,fr:Étui carton à recycler",1426059254,1721993337,150 g,"Sans gluten,Bio,Épi barré,Bio européen,1% pour la planète,DZG glutenfrei,Agriculture UE,FR-BIO-01,Point Vert,Fabriqué en France,Sans sucre ajouté,Sans huile de palme,Nutriscore,Nutriscore A,AB Agriculture Biologique,Triman",95,3
+6111243570138,,,,1690491149,1748754043,,,50,
+4008400260921,Kinder Country,"ferrero, kinder, mixte","Plastique,Carton,PP 5 - Polypropylène,Carton non ondulé,de:Kunststoff-Folie,de:Papp-Schachtel,de:Sac de transport",1460818616,1753333549,211.5 g,"Point Vert, Pur beurre de cacao, Triman, Végétarien",26,4
+5060283760669,Propercorn Sweet & Salty,proper,"Bag, Mixed plastic-packet",1550169763,1735575009,14g,"Vegetarian, No gluten, Vegan",73,4
+8013355999143,Gocciole classiche pav 500 gr,pavesi,Sacchetto bianco,1415818813,1753476439,500 g,"Ohne Palmöl, Végétarien",42,4
+8410076610744,Protein Caramel salé Cacahuètes,nature-valley,"Recycler,Pensez au tri!,Point vert,Étui carton à recycler",1553412865,1732095894,"160 g ℮, 4 barres de 40 g","No gluten,Vegetarian,No preservatives,Source of fibre,High fibres,No colorings,fr:Rijk Aan Protéines",,4
+4088600132334,85% Cocoa - Dark Chocolate,moser-roth,Card-wrapper,1572205986,1751632437,125 g,"Fair trade,Vegetarian,Fairtrade cocoa",20,4
+3700214611548,Noir equitable 85% Pérou,alter-eco,"Métal,Métaux recyclables,Aluminium,Carton,Feuille,Étui,Feuille en métal",1380920565,1748249852,100 g e,"Commerce équitable,Bio,Bio européen,Fairtrade International,Agriculture non UE,CH-BIO-006,Fair for Life,en:FSC,FSC Mix,Fabriqué en Suisse,AB Agriculture Biologique,Empreinte carbone,Triman",54,3
+4008400409627,Nutella,"ferrero, nutella","Kunststoff, Glas, Klarglas, PP - Polypropylen, da:C/PAP 82, da:PAP 21, fr:couvercle en plastique, fr:opercule aluminium, fr:pot en verre",1461854663,1754325502,825g,"Ohne Konservierungsstoffe, Grüner Punkt, Ohne Farbstoffzusatz, QS-Prüfzeichen, SGS",,4
+5010029207880,Oatibix,weetabix,,1468907464,1738674613,24 biscuits,,63,3
+8000500269169,Kinder Cards,"ferrero, kinder","Autres plastiques,Bar,Carton,Carton non ondulé,Green Dot,Papier cartonné,Plastique,Stück",1509089415,1753795163,128 g,Végétarien,53,4
+3178530410143,Petites Madeleines pépites chocolat,st-michel,"Plastique,Sachet,Film plastique à jeter,Pensez au tri!,Point vert",1456140582,1753269774,400 g,"Sans conservateurs,Fabriqué en France,Sans colorants,Sans matière grasse hydrogénée,Sans huile de palme,Nutriscore,Nutriscore D,Terracycle",42,4
+3284230011884,8 Pains au lait frais Bio 280g,"la-boulangere-bio, la-boulangere","Clip en plastique,Film en plastique",1365284394,1748853957,280 g,"Commerce équitable, Bio, Bio européen, Plein air, Sans arômes artificiels, Agriculture non UE, 1% pour la planète, Agriculture UE, Agriculture UE/Non UE, Commerce équitable Bio, FR-BIO-01, Œufs de poules élevées en plein air, Oeufs de France, Point Vert, Fabriqué en France, Sans huile de palme, Nutriscore, Nutriscore B, AB Agriculture Biologique, Agri-Éthique France, Farine de blé français",91,4
+6111031005279,,bimo,,1703232528,1746723888,21 g,,,4
+00938150,single origin milk chocolate,marks-spencer,,1478297256,1748400677,100g,"Fair trade, Fairtrade International, Made in Italy, Pure cocoa butter",34,3
+3178530407396,Petit Cookies Pépites de chocolat,bonne-maman,"Plastiek,Zak,fr:Film en plastique,fr:Film plastique à jeter,fr:Pensez au tri!,fr:Point vert,fr:Sachet plastique",1383926197,1752164931,250g,"Made in France,Triman",52,4
+5410041010800,Petit écolier chocolat noir pur beurre de cacao,"lu, mondelez-france","Plastiek,Doos,Karton,Pakket,fr:Barquette et film plastique à jeter,fr:Étui carton à recycler",1340225440,1753085774,150g,"Labels de distributeurs,Sans conservateurs,Fabriqué en France,Sans colorants,Pur beurre de cacao,Blé français,Triman,Charte Harmony",41,4
+5060283760812,Sweet & salty popcorn,proper-corn,Mixed plastic-bag,1553906929,1749995594,84g,"Vegetarian, Kosher, No gluten, Source of fibre, Vegan, High fibres, Kashrut division of the London Beth Din, No palm oil, The Vegan Society",78,4
+5055958701054,Protein Oat Boosts Cocoa Vanilla,graze,Card-box,1520732208,1747940046,4 x 30 g,,,4
+8412674005021,Megachok,arluy,Emballage plastique et carton,1470809308,1748659853,500g,Point Vert,45,4
+3175681257542,Cranberry saveur amande,gerble,"Plastique, Carton, Paquet, Etui en carton, Film en plastique",1568729341,1742137021,132 g (4 × 3 biscuits),"organic, eu-organic, fr-bio-10, made-in-france, nutriscore, nutriscore-grade-b, ab-agriculture-biologique, triman, fr:agriculture-ue, agriculture-ue/non-ue, fr:agriculture-non-ue, cs:bio, bio-européen, fabriqué-en-france, en:no-palm-oil",70,4
+3175681257535,"Gerble - Organic 3 seeds Kasha Sesame Poppy Cookie, 132g (4.7oz)",gerble-biogerble,"Carton,Papier Aluminium",1568729807,1742135606,"132g, 4 sachets de 3 biscuits","bio, bio-européen, agriculture-non-ue, agriculture-ue, agriculture-ue/non-ue, fr-bio-10, fabriqué-en-france, nutriscore, nutriscore-b, en:agriculture-ue/non-ue, cs:bio, en:bio-européen, en:fabriqué-en-france",81,3
+3760091722508,Chocolat noir 85% Madagascar,ethiquable,"Karton,fr:Etui en carton,fr:Feuille aluminium,fr:Impression encre végétale",1350722223,1729962952,100 g,"Commerce équitable, Bio, Ecocert, Bio européen, Agriculture non UE, FR-BIO-01, Point Vert, IT-BIO-014, Symbole des Producteurs Paysans, AB Agriculture Biologique, Equitable Ecocert, Triman",49,3
+7622210988034,Véritable petit beurre,"lu, mondelez, mondelez-international","Plastique,Carton",1470378732,1753092899,200 g e,"Distributor labels, Charte LU Harmony, Green Dot, Made in France, No colorings, Pure butter, Triman, en:no-preservatives",75,4
+5053990161966,Pringles Texas BBQ 165g ajman,pringles,,1641668954,1753685436,165g,,57,4
+6111259344501,Extrem,excelo,,1707519735,1748708340,,,,4
+5000168198514,Sablés chocolat,mcvitie-s,"Plastique, Carton, Point vert, Sachet plastique à jeter, Étui carton à recycler, nl:Triman",1496073471,1708419066,300 g,"Végétarien,Sans arômes artificiels,Sans colorants,Triman,Riche en céréales",40,4
+5060482840766,Peanut Butter Oat Bars,deliciously-ella,,1584804484,1753738148,3 x 50 g,"No gluten, Vegetarian, Source of fibre, Vegan, No additives, en:green-dot",66,3
+5060088700105,Protein Cocoa Hazelnut Bar,nakd,,1689427770,1754229651,45 gram,"No gluten, Vegetarian, Kosher, Source of fibre, Source of proteins, Vegan, High fibres, High proteins, Kosher LBD, No added sugar, No lactose, No milk, Without addition of dairy products, en:cold-pressed",,4
+8000500037560,Kinder Bueno,kinder,PENSEZ AU TRI ETUIS PLASTIQUES 3 CONSIGNE POUVANT VARIER LOCALEMENT &gt;&gt; www.CONSIGNESDETRUFR,1373786291,1752243224,43g,"Point Vert,Pur beurre de cacao",23,4
+00130509,Wheat Biscuits,by-sainsbury-s,,1561716994,1705963864,,"Vegetarian, Vegan",64,3
+0039047011304,Shortbread Fingers,walker-s,"en:card-box, en:ldpe-wrapper",1616678962,1745310204,160g,Vegetarian,63,3
+3497917000907,Chips saveur fromage du Jura,brets,"Plastiek,Zak,In beschermde atmosfeer,fr:Sachet plastique à jeter",1460047447,1753017337,125 g,"Sans gluten,Fabriqué en France,Arômes naturels,Sans exhausteur de goût,Nutriscore,Nutriscore C,Pommes de terre de France,Produit en Bretagne,Entrepreneurs + Engagés,PME Plus",82,4
+6111259341517,Top cookies,excelo,Plastique,1570908768,1743879383,28 g,,45,4
+6111259346345,,be,,1695851381,1752950241,4biscuits,"Point Vert, Halal",50,
+0061232202952,Fine Milled Oatcakes,nairn-s,"Plastic, Cardboard",1509269540,1746695152,218 g,"Sustainable, Vegetarian, Sustainable Palm Oil, Vegan, No added sugar",71,3
+3336971805038,Chips de lentilles saveur tomate mozza,"natu-bon, vico","Plastic,Bag,fr:Film en plastique,fr:Film plastique à jeter,fr:Pensez au tri!,fr:Point vert",1536955540,1752610181,85 g,"Sans conservateurs,Point Vert,Fabriqué en France,Sans colorants,Sans huile de palme",78,4
+0612322000202,Fruit & Seed Oatcakes,nairn-s,Cardboard and plastic film,1541608322,1741342023,225 g,"Vegetarian, No artificial flavors, No artificial preservatives, No GMOs, Vegan, No artificial colors, No hydrogenated fats, No wheat",55,3
+7622210834751,Milka oreo,milka-oreo,Plastic,1550568721,1752578947,25g,Pur beurre de cacao,19,
+3270190127765,Chocolate negro,"carrefour-bio, carrefour","en:Metal,en:Recyclable Metals,41 ALU,en:Cardboard,en:Sheet,en:Sleeve,fr:Plaquette",1366552020,1754247113,100 g,"Organic, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, FR-BIO-01, Green Dot, Made in France, Nutriscore, Nutriscore Grade D, Pure cocoa butter, AB Agriculture Biologique, Triman, en:it-bio-014",49,4
+5060088701447,Cocoa Orange,nakd,"en:Unknown-film,en:unknown-wrapper",1497182088,1753877623,35g,"Vegetarian, No gluten, Kosher, Source of fibre, Vegan, High fibres, Kashrut division of the London Beth Din, No added sugar, No milk, Without addition of dairy products, en:cold-pressed",,4
+3660140948258,Savane,brossard,"Boîte, Brossard",1598073104,1753868273,310 g,"Made in France,No palm oil,Nutriscore,Nutriscore Grade C",58,4
+6111265980229,Nutabella,null,,1654242008,1753594255,900g,,,
+5060719920001,Absolute black dark chocolate,montezuma-s,"Cardboard box, wrapper compostable.",1582658518,1702035154,90 g,VegetarianNo glutenNo GMOsVeganNo coloringsNo preservativesWithout addition of dairy products,28,3
+6111259341654,eyoo,excelo,,1627942375,1749407260,,,27,4
+20022471,Čokoláda na vaření,"fin-carre, lidl","Plástico,PP,Bolsa,en:05",1366889913,1742932744,200 g,"Fair trade, Vegetarian, Sustainable farming, Vegan, Fairtrade cocoa, Green Dot, Rainforest Alliance, UTZ Certified, UTZ Certified Cocoa, fr:triman",46,4
+6111199000017,Flash Wondermint Gum,flash,throw it,1509823059,1724629603,5 pieces / 12g,,,4
+8410376017113,Biscuits Mega Duo imp,gullon,,1494576831,1743706246,,,45,4
+6111259346352,cooky,be,,1693408021,1718430031,100g,,50,
+0061232202556,Dark Chocolate Chip Oat Biscuits,nairn-s,"Card-box, Cardboard box, Plastic wraper",1424810653,1749133003,200 g,"Vegetarian,Verified",31,4
+7622210995063,180G LT NOISETTE COTE D OR,cote-d-or,"Etui carton,Feuille métal,",1473970844,1748350348,180g,"No gluten,Cocoa Life,Triman",33,4
+5059697684616,Peru Dark Chocolate,tesco,,1705138715,1738674653,100g,Rainforest Alliance,30,4
+4014400901191,merci Finest Selection Assorted Chocolates,storck,"Plastikowe,en:Metal,22 PAP,PP,en:Recyclable Metals,41 ALU,en:Cardboard,de:Product,de:Stück",1475409965,1754390900,250g,Green Dot,,4
+5410126806069,Speculoos - Original,lotus-bakeries,"1 sachet plastique 250g, 2 sachets plastiques 125g",1506426095,1738674655,250 g,"en:Sustainable, Huile de palme durable, Huile de palme durable et certifié",30,3
+7622400006753,Noir 70% Intense,"cote-d-or, mondelēz","fr:Film aluminium recyclable,fr:Étui carton recyclable",1399967062,1752072571,100 g,"Cocoa Life,Point Vert,Triman",29,4
+4056489369134,Biscuits Germe de Blé et Pépites de Chocolat,"lidl, sondey","fr:Etui carton à recycler,fr:Film plastique à jeter,fr:Pensez au tri!,fr:Triman",1619620506,1751990750,"200 g, 4 pochons de 5 biscuits",Rainforest Alliance,56,4
+7622210834713,Milka wholenut,milka,fr:bocal  barquette,1551037188,1746283728,,Point Vert,24,
+5060088700099,nakd peanut butter protein bar,nakd,,1683983249,1752518148,3 x 45g,"No gluten, Vegetarian, Kosher, Vegan, FSC, FSC Mix, No added sugar, No lactose, Triman, en:kashrut-division-of-the-london-beth-din",,4
+3664346306621,100G POULAIN LIGNE NR,"fine-gourmande, poulain","Papier,Feuille en métal",1525523991,1752072620,100 g,"Peu ou pas de sucre,Peu de sucre,Allégé en sucre,Moins 10% de sucre,Une consommation excessive peut avoir des effets laxatifs,Fabriqué en France,Avec édulcorants,Triman",29,4
+8410076901026,Barre céréales Protéines peanut& chocolat🍫,nature-valley,BOITE + SACHET 151,1647848966,1749300106,160 g,"Contient du lait,Contient de l'huile de palme",,4
+8410076600790,Nature Valley Crunchy Oats & Honey,nature-valley,Card-box,1505818518,1747648659,210 g,,,4
+6111259341272,Genova - Double Creme,excelo,,1579302041,1749928045,36,,40,4
+6111259344013,B'ono Wafer,excelo,,1639670523,1717580661,ja,,48,4
+3041090061615,"Bâtonnets de céréales fourrés (47,5 %) au chocolat - Cracotte Chocolat","lu, mondelez","Plastic,Cardboard",1351846697,1754139808,200 g,"No preservatives,Sustainable farming,Green Dot,Made in France,No colorings,UTZ Certified,Triman,fr:Charte Harmony LU",75,4
+8410076481597,Tortilla Nachips Original,old-el-paso,"Mixed plastic film-bag,Point Vert,fr:Film en plastique,fr:Pensez au tri!,fr:Point vert,fr:Sachet plastique à jeter",1482608127,1753945579,185 g,"No gluten, Vegetarian, No preservatives, Green Dot, Triman",72,3
+6111017046043,Tentation aiguebelle,aiguebelle,,1585672165,1741798001,,en:pure-cocoa-butter,15,4
+20005726,Nut & fruit mix classic,"alesto, lidl","Plastiek,PET - Polyethyleentereftalaat,Zak,Folie,LDPE - Lagedichtheidpolyetheen,OPP",1450823001,1744047525,200 g,"Vegetarian, Vegan, European Vegetarian Union, European Vegetarian Union Vegan, Nutriscore, Rich in polyunsaturated fatty acids, Vitamin E source",44,1
+8076809573252,Baiocchi nocciola 260g,mulino-bianco,Sachet,1504982437,1753087570,260 g,"Point Vert, Sans huile de palme, Triman, Végétarien",55,4
+5000168001104,Table Water Biscuits,carr-s,Cardboard,1428608077,1752067875,125g,"Végétarien,Kascher,Végétalien,en:Orthodox Union Kosher",70,3
+5410126716016,Biscoff,lotus,"Kunststoff,en:Mixed plastic-packet",1488738957,1754199256,250g,"Nachhaltig,Nachhaltiges Palmöl,en:Contains palm oil,Ohne Farbstoffzusatz,es:Recicla amarillo",35,3
+8000500227848,B-ready 6 pièces,ferrero,"Plastic, Pp-polypropylene, Cardboard, Non-corrugated cardboard, Green dot, Kunststoff-Folie, Papp-Schachtel, en:card-box",1495473271,1752682063,132 g,B-ready,30,4
+7622202025587,tuc,tuc,,1710863874,1749983577,144,en:green-dot,57,4
+51000005,Cheese & Onion Flavour Potato Crisps,walkers,Mixed plastic-packet,1429993406,1750698051,25 g,,78,4
+5410041005707,Pim's Sinaasappel,lu,"Plastic,Bag,Box",1362408020,1751259257,150 g e  [12 biscuits],"Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Sans colorants,Sans colorants ou conservateurs,Triman",49,4
+5000159535267,Dark Chocolate Nuts & Sea Salt Bars,kind,,1613900875,1741309006,3 x 30g = 90g,"Sans gluten,Végétarien",,4
+3046920021043,Noir intense dessert 70%,lindt,,1615308583,1752072625,200 g,Fabriqué en France,28,4
+3175681851863,Biscuits Soja Figue,gerble,"fr:1 étui en carton à recycler,fr:4 sachets en plastiques à recycler",1366025288,1742732600,270 g,"Sans OGM,Fabriqué en France,Sans huile de palme,Nutriscore,Nutriscore B,Farine-de-ble-filiere-durable",59,4
+8410376047578,Digestive Avena Naranja,gullon,"Plástico, Caja, Recipiente",1483094906,1751980841,425 g,"Vegetariano,Source of fibre,Vegano,Ponto Verde,Rico em fibras",50,4
+5057545916049,CREAM CRACKERS,tesco,Mixed plastic-packet,1556389483,1742450262,300 g,"Vegetarian, Vegan",57,3
+6111243570169,Matina,,,1592841935,1748424703,,,50,
+3175681280502,Le petit Gerblé nature,gerble,carton,1647364196,1734274909,200g,"No colorings, Nutriscore, Nutriscore Grade A, en:no-palm-oil",64,3
+3056440070896,Bastogne,"lu, mondelez","Plastic, Container, fr:Film plastique à jeter, fr:Étui carton à recycler",1349688125,1752241561,260 g ℮,"Labels de distributeurs, en:Charte LU Harmony, en:point-vert",43,4
+8000500359488,90G FERRERO ROCHER TABLETTE LT,ferrero-rocher,"Metal,Recyclable Metals,Aluminium,Cardboard,Paperboard,fr:Etui en carton",1630002811,1750477460,90 g,Green Dot,17,
+5900951311505,Snickers,snickers,,1708770823,1754205847,50g,Punto Verde,,4
+20815400,Cashew-Cranberry-Mix,alesto,"Kunststoff, Tüte, 7 OPP/PETmet/PE",1475654837,1748659545,200 g,"Nutriscore,Sans sel ajouté",43,3
+3017760819121,Chamonix,lu-mondelez,"Metal,Plastic,Recyclable Metals,Aluminium,Box,Cardboard,fr:Etui en carton,fr:Film en plastique,fr:Film plastique et aluminium à jeter,fr:Pensez au tri!,fr:Point vert,fr:Étui carton à recycler",1366889695,1741679478,"250 g ℮, (20 biscuits x 12,5 g)","Distributor labels,Charte LU Harmony,Triman",71,4
+5000159459228,Twix Double,mars-wrigley,"Plastic,Bag",1385042530,1750299505,50g,,,4
+5000426171518,AFTER EIGHT Coffret 300g,nestle,"Caja,en:Cardboard,en:Sleeve,en:card-carton,en:mixed plastic-film,en:paper-tray,en:paper-wrapper",1357466240,1744713077,300 g,"Végétarien, en:Nestlé Cocoa Plan, Rainforest Alliance, Rainforest Alliance Cocoa, Triman",20,4
+3175681290297,Cookie Chocolat saveur noisette Sans sucres,gerble,1 étui et 4 sachets à mettre au bac de tri,1682003269,1751003429,130 gr,"Low or no sugar, Vegetarian, Vegan, Made in France, No sugar, Nutriscore, Nutriscore Grade A, Rainforest Alliance, en:no-palm-oil",66,4
+6111031005194,,oreo,,1723591308,1750708145,,,27,4
+3175681077324,Biscuit chocolat saveur amande,gerble,"boite carton, sachet plastique",1392034251,1739518716,200 g,"No palm oil, Nutriscore, Nutriscore Grade C, Rainforest Alliance, fr:39-sucre, en:made-in-france",56,4
+3175681116863,sablé sésame saveur vanille  - Gerblé sans sucres,gerble,"Carton, Etui en carton, Sachet en plastique",1426679999,1749393849,132g,"Peu ou pas de sucre,Fabriqué en France,Sans huile de palme,Sans sucre,Nutriscore,Nutriscore A,Triman,en:Avec édulcorants",54,4
+3175681134935,"Gerblé - Sablés sans sucres saveur citron et Yuzu, 132g (4.7oz)",gerble,"Carton, Etui carton à recycler, Etui en carton, Pensez au tri!, Point vert, Sachet en plastique, Sachet plastique à jeter",1446234009,1747383089,"132 g, 3 sachets de 4 biscuits","Peu ou pas de sucre,Source de fibres alimentaires,Sans colorants,Sans huile de palme,Sans sucre,Triman",54,4
+4008400163826,Ferrero Rocher,ferrero,R LE TRI ELEMENTS +FACILE D'EMBALLAGE BAC DE TRI,1390082309,1739520206,200 g,Green Dot,16,4
+6111242040991,Fakiat Barbeque,leader-food,Plastic,1524953209,1731972465,18g,,73,4
+3027030011810,Sticks et bretzels d'Alsace,"dr-oetker, ancel",Boîte plastique,1543948602,1742438028,300 g,"À l'huile de tournesol, Triman",66,3
+5017764128128,Sea Salt & Balsamic Vinegar Crisps,kettle,,1608814230,1751711177,130g,"No gluten,Certified gluten-free,Vegan,Vegetarian",,4
+3046920022705,Excellence Noir Orange Intense,lindt,"Métal,Métaux recyclables,Aluminium,Carton,Sec,Barquette,Etui en carton",1473945893,1748859097,100 g,Triman,70,4
+3175681026766,Crousti'Son Miel 🍯🐝Sésame,gerble,"PENSEZ AU TRI! FILM PLASTIQUE ÉTUI CARTON 8 À JETER À RECYCLER,fr:Etui en carton,fr:Film en plastique",1428607328,1742511529,200 g,"made-in-france, nutriscore, nutriscore-grade-b, point-vert, fr:riche-en-fibres, fr:sans-colorants, fr:sans-conservateurs, fr:sans-huile-de-palme, en:no-palm-oil",52,4
+5053990101542,pringles hot & spicy,pringles,Carton,1423486392,1751905364,1pcs,"Végétarien,Triman",81,4
+5016451062110,Seabrook sea salt,seabrook,Pack,1568932641,1730507497,6 x 25g,"Verified, en:vegetarian-society-approved-vegan",73,3
+8000500267103,"Kinder - Delice x10, 390g (13.8oz)",euro,"Plastic,Bag,Film,Wrapper,de:Petit Format",1497291147,1754298838,390g,"Green Dot, Made in Italy, Végétarien",17,4
+3229820783673,Fourrés chocolat lait noisettes,bjorg,"Carton,Sachet Individuel",1378574604,1703162926,225 g,"Bio, Ecocert, Bio européen, Agriculture non UE, Entreprise B certifiée, Agriculture UE, Agriculture UE/Non UE, Point Vert, Sans huile de palme, AB Agriculture Biologique",70,4
+3380380047749,Tartines craquantes au sarrasin,"ekibio, le-pain-des-fleurs","Plastic,Bag,Container,Sleeve",1339482831,1748101382,300 g,"Sans gluten,Bio,Végétarien,Épi barré,Bio européen,Kascher,Végétalien,Agriculture UE,FR-BIO-01,Point Vert,Nutriscore,Nutriscore A,The Vegan Society,AB Agriculture Biologique,Triman,K",95,3
+6223000495971,Hohos,,,1646424017,1678801226,,,,
+5055958705427,Graze lemon and blueberry,graze,en:card-box,1662458771,1738853858,4 x 30g,,,4
+6111270030018,Pikota,,,1668906816,1750940170,25 g,,,
+6111031005293,Bimo,merendina,,1701127365,1715000737,36 g,,,4
+6111031005385,Oreo original,mondelez,,1706393741,1734789961,,,27,4
+5010043000917,Malt Loaf,soreen,en:unknown-packet,1520846905,1716253606,260g,"Low or no fat, Low fat, Vegetarian, Source of fibre, Vegan, Vegetarian Society Approved, Vegetarian Society Approved Vegan",41,4
+80177609,Chocolate,kinder,pt:Cartãoال,1429339544,1753189417,50 g,,28,4
+20005771,Nusskracher Voll-Nuss,fin-carre,Film,1395414690,1752730808,100 g,"Fair trade, Vegetarian, Fairtrade International, Green Dot, Made in Germany, Max Havelaar, en:fairtrade-cocoa",48,4
+8410376040425,Cuor di Cereale,galletas-gullon,Film,1512165937,1753198107,300 g,"Vegetarian, Source of fibre, Vegan, High fibres, en:no-palm-oil",64,4
+8717677339914,Milk Chocolate,tony-s-chocolonely,"Paper, Film",1617995980,1748895377,180g,"Fair trade, Made in Belgium",40,4
+5055958706288,Smoky Barbecue Crunch,graze,,1683028142,1740615524,100g,"Vegetarian, Vegan",68,4
+3175681134904,Sablé Nature sans sucres,gerble,"Bag, Box, Individual bag, fr:Sachet en plastique, fr:Etui en carton",1423325212,1749394623,132g,"Peu ou pas de sucre,Fabriqué en France,Sans colorants,Sans huile de palme,Sans sucre,Nutriscore,Nutriscore A,Triman",55,4
+7622400013935,Noir 86% Extra intense,"cote-d-or, mondelēz","Metais,Metais recicláveis,Alumínio,Cartão,21 PAP,fr:Papier aluminium,fr:Pensez au tri!,Ponto Verde",1359825887,1754390622,100 g,"Cocoa Life,Ponto Verde,Rainforest Alliance,Tidy man,Triman",41,4
+6291003203527,Break Chocolate Fingers,"break, tiffany","Plastic,Bag",1415707806,1747243872,31 g,,53,4
+7311070346916,Gifflar Cannelle,"pagen, gifflar",,1441953313,1752694742,260 g,"en:Sustainable, Huile de palme durable, Point Vert, RSPO",54,4
+3229820791081,Gaufres Miel,bjorg,Carton,1441453473,1749405961,175 g,"Organic,EU Organic,Non-EU Agriculture,Certified B Corporation,EU Agriculture,EU/non-EU Agriculture,FR-BIO-01,NL-BIO-01,No palm oil,Nutriscore,AB Agriculture Biologique,Triman",89,4
+5056051802419,Veg crisps,tyrrell-s,"Mixed plastic-packet, es:bolsa 125 gr",1536577554,1751211040,125 gr,"Sans gluten,Végétarien,Sans arômes artificiels,Sans colorants artificiels,Sans colorants ni arômes artificiels,Sans exhausteur de goût,Sans glutamate,Triman,Point Vert",,3
+6111242380295,Tchicolata,,,1533552045,1733740088,900g,,,4
+6111259341494,top cookies original,excelo,Plastique,1568991549,1745181487,32 g,,55,4
+7622201695323,,mondelez,,1682861797,1748633189,,,67,4
+20006174,Tartines craquantes Froment,maitre-jean-pierre,"Plastic,PP - Polypropylene,Cardboard,Non-corrugated cardboard,fr:500 g,fr:Etui carton à recycler,fr:Etui en carton,fr:Pensez au tri!,fr:Point vert,fr:Sachet en plastique",1374072425,1752848658,250 gram,"Sans huile de palme, Nutriscore, Nutriscore A, Nutri-Score A",78,3
+3560070669981,80% cacao noir,carrefour,"Métal,Métaux recyclables,Aluminium,Carton",1372607420,1749547357,80 g,"Point Vert, Triman",31,4
+5060088705230,Peanut Delight Bars,nakd,en:card-box,1518709242,1752518178,4 x 35g,"No gluten, Vegetarian, Kosher, Source of fibre, Vegan, FSC, FSC Mix, Natural product, No added sugar, No milk, en:kashrut-division-of-the-london-beth-din",,4
+8000300264388,,"nestle, crunch","Feuille,Métal,Papier",1374005963,1752686396,100 g,"Sem glúten,Crossed Grain Trademark,Triman,Nutriscore E,CH-042-023,Rainforest Alliance Cocoa",48,4
+6111259344426,Excelo nougat,excelo,,1679229928,1732711008,,en:Green Dot,38,
+8000500391228,Kinder Kinderini,"ferrero, kinder",Plastica,1697366655,1754136607,250 g,it:Kinder Kinderini,45,4
+8000500003787,,ferrero-rocher,"Plastic, Metal, Paper, Recyclable Metals, Aluminium, Box, Paper-film, Ps-box, Ps-lid, Stück, en:paper-label, en:pp-tub, en:pp-lid, en:pp film-film",1397517146,1753512277,200 g,"Vegetarian,Green Dot,Pure cocoa butter",,4
+5060198820847,Rosemary & Sea Salt Sourdough Crackers,peter-s-yard,en:ldpe-packet,1639934767,1748103183,90g,,81,3
+8411859551445,Buscalios,risi,,1537618985,1709914542,35g,Sans gluten,,4
+6111242600553,,reda-food,,1568296157,1735422027,18 pièces 50g poids net,,37,4
+00557825,Dark chocolate 75%,marks-spencer,,1614125935,1734291012,100g,"Vegetarian, Fair trade, Vegan, Made in Italy",15,3
+20014384,Cacahuètes - grillées & salées,alesto,"Plastique,Sachet",1416510769,1747280327,250 g,"Nutriscore, Nutriscore C, Triman",23,3
+3023470020016,Roudor,st-michel,Sachets plastiques,1393586637,1752674931,150 g,"Произведено во Франции,Без пальмового масла,Nutriscore,Nutriscore E,fr:Origine France,en:oeufs-de-poules-elevees-en-plein-air,EAC",63,3
+3760020508388,Tartined Craquantes Châtaigne,"jardin-bio, lea-nature","Plastic,Bag,Box,Cardboard,fr:Conteneur,fr:Etui carton à recycler,fr:Etui en carton,fr:Point vert,fr:Sachet plastique à jeter,fr:Triman",1426321573,1728724540,150 g,"Peu ou pas de matière grasse, Peu de matière grasse, Sans gluten, Bio, Épi barré, Bio européen, 1% pour la planète, DZG glutenfrei, FR-BIO-01, Fabriqué en France, Sans sucre ajouté, Sans lactose, Sans huile de palme, Nutriscore, Nutriscore B, AB Agriculture Biologique, Afdiag, Sans sucres ajoutées",95,3
+6294003539054,Kitkat,nestle,,1606426357,1754142478,36.5g,"Pure cocoa butter, en:nestle-cocoa-plan",33,
+6111259344211,Crunchy,,,1636619701,1738853896,,,37,
+3168930168133,Chips Recette Paysanne Nature,lays,plastique,1648890086,1753816359,155 g,"Sans conservateurs,Sans colorants,Nutriscore,Nutriscore C,Triman",73,3
+0005100000100,Ready Salted Crisps,walkers,,1693980258,1728052868,25g,,68,3
+0061232200545,Fine milled oatcakes,nairn-s,"Card-carton, Caton - card, Film - plastic",1424695241,1741443564,4 pouches of 8 oatcakes (250 g),"No added sugar, No wheat",43,3
+5050974000822,Thins Multi-Seed Flatbreads,ryvita,"Recycle, Container, Card-box, Plastic film",1493206398,1754397398,125 g,,,4
+6111017046548,Aiguebelle,aiguebelle,,1636908135,1747237540,,,15,
+0612322000387,Original Oatcakes,nairn-s,en:card-carton,1526593317,1742409050,213 g,"No gluten,No added sugar",71,3
+3700214614266,Chocolat noir Pérou 90%,alter-eco,"en:Cartonnage,en:Recyclable Aluminium",1414518776,1748858944,100 g,"Commerce équitable,Bio,Bio européen,Agriculture non UE,CH-BIO-006,Fair for Life,FR-BIO-01,FSC,FSC Mix,Fabriqué en Suisse,AB Agriculture Biologique,Triman",49,3
+7622210449313,Multicéréales goût chocolat,lu,"Plastique, Carton, Etui carton à recycler, Film plastique à jeter, Opercule en métal, Pensez au tri!, Point vert",1450619748,1750582861,"293 g ℮, 15 biscuits",Point Vert,39,4
+8000500310397,Nutella biscuits fergulf,"ferrero, nutella","Plastic,Metal,Recyclable Metals,Card-tube,Foil-film,Pp-lid,it:Enveloppe",1589660166,1753406904,166 g,"Triman, Végétarien",31,4
+5053990161607,Pringles Paprika,pringles,,1646295850,1753967065,40g,"Vegetarian, Triman",57,4
+5000128981330,Chocolate For Change Single Origin 85% Cocoa Dark Chocolate,coop,"Aluminium-wrapper,Card-box",1539438132,1740599506,100 g,"Fair trade,Vegetarian,Fairtrade International,Vegan",43,4
+00392754,Madagascan Dark Chocolate,sainsburys-taste-the-difference,"en:card-sleeve, en:foil-wrapper",1609592675,1701464548,100g,,18,3
+3760049798890,Pain au lait bio x12 420g,la-boulangere,,1610699160,1749485424,420 g,"Commerce équitable,Bio,Bio européen,Plein air,1% pour la planète,Œufs de poules élevées en plein air,Oeufs de France,Fabriqué en France,Nutriscore,Nutriscore B,AB Agriculture Biologique,Agri-Éthique France,Farine de blé français,Électricité verte Origine France",82,4
+6223000496022,Hohos,,,1638044631,1738063828,,,,4
+8410076901033,Protein Salted Caramel Nut,nature-valley,sachez individuels,1646235278,1738674728,40g,Sans gluten,,4
+3392460510050,LU - Grany pommes,lu,"Plastiek,Karton,fr:Film plastique à jeter,fr:Green dot,fr:Pensez au tri!,fr:Étui carton à recycler",1406451539,1748357378,125 g (x6),"Point Vert, Fabriqué en France",,4
+5410041040807,Pim's - Framboise,lu,"Box,Container,Pack,Étui plastique",1334154510,1753087489,150 g,"Labels de distributeurs,Sans conservateurs,en:Charte LU Harmony,Sans colorants,Sans colorants ou conservateurs,Pur beurre de cacao,Triman,en:Fabrique-dans-l-ue,en:Fabrique-en-belgique,en:Snack-mindfully",49,4
+8410376002201,Galleta ligera sin sal y sin azúcar,gullon,Plástico,1520103063,1750086456,80 g,,55,4
+40874302,Sesame Crispbread with a naturally nutty flavour,"lidl, rivercote",Film,1549565858,1749743298,250g,"High fibres,Vegan,Suitable for vegans,Suitable for vegetarians,Low saturated fat,No added colorings,No added preservatives",,3
+20615420,Paahdettu maapähkinä,alesto,"Métal,Métaux recyclables,Aluminium,Sachet",1434964947,1739649210,200 g,"en:Low or no salt,No added salt,Nutriscore,Nutriscore B,en:Not-suitable-for-young-children",33,3
+8480000142429,Trigo espelta 0% azúcares añadidos,hacendado,,1597567103,1745833391,200 g,"Sin azúcares añadidos, Recicla-amarillo, Recicla-azul",52,4
+3760091726667,Chocolat noir 80% Équateur intense et floral,ethiquable,"Carton, Feuille d'aluminium, Impression encre végétale",1350722342,1744998060,100 g,"Commerce équitable,Bio,Ecocert,Bio européen,Agriculture non UE,FR-BIO-01,IT-BIO-014,Symbole des Producteurs Paysans,AB Agriculture Biologique,Equitable Ecocert,Triman,SPP",49,3
+8480000607225,Chocolate 85%,mercadona,papel,1649927043,1753367596,100.g.,"Sem glúten,Ponto Verde",15,4
+20005825,Milk Chocolate,fin-carre,"Plástico,PP,en:Film",1366919944,1751033603,100g,"Fair trade, Fairtrade International, Sustainable farming, Fairtrade cocoa, Made in Germany, Max Havelaar, Pure cocoa butter",48,4
+20815356,Dunkle Schokolade mit ganzen Haselnüssen,"fin-carre, lidl","Plastique,PP 5 - Polypropylène",1523524219,1751134057,100 g,"Fair trade, Fairtrade International, Sustainable farming, Made in Germany, Max Havelaar, Triman, en:fairtrade-cocoa",44,4
+3229820791074,Biscuits fourrés aux framboises,bjorg,"Plastique, Sachet, Carton, Étui, Barquette, Film en plastique",1459598640,1753824941,175 g,"Organic, EU Organic, Certified B Corporation, NL-BIO-01, No palm oil, Nutriscore, AB Agriculture Biologique, en:fr-bio-01",75,4
+5000159492737,M&M's peanut,mars-wrigley,"Plastique,Sachet,Gourde,en:mixed plastic film-pouch,Sachet plastique",1461696813,1752243731,330 g,Triman,16,4
+7622300784751,Cake & Chock,"milka, mondelēz","Carton, Sachet aluminium",1353618681,1752931778,175 g,"Green Dot,Tidy man,Triman",33,4
+5060198640643,Oregano Crostini Italian Bread Bites,crosta-mollica,,1571077080,1752254668,150g,"Made in Italy,Vegan,Vegetarian",74,3
+0061232201047,Stem ginger oat biscuits,nairn-s,"en:card-box, en:mixed plastic film-packet",1489053060,1744321811,200 g,"Sustainable,Vegetarian,Sustainable Palm Oil,Source of fibre,No wheat,Vegan,No artificial colors,No artificial flavors,No artificial preservatives,No GMOs,No hydrogenated fats",54,4
+3046920029674,Excellence À la Pointe de Fleur de Sel Noir,lindt,"en:aluminium-wrapper, en:card-sleeve",1338062826,1753813165,100 g,,19,4
+3175681135895,Moelleux chocolat noix,gerble,"Plastique,Sachet,Carton,Sachet individuel",1425286672,1749046334,138 g,"Sans conservateurs,Fabriqué en France,Sans colorants,Sans huile de palme,Nutriscore,Nutriscore B,Rainforest Alliance Cacao",46,4
+5060088702000,Berry Delight Raw Fruit & Nut Bar,nakd,"Plastique,Boîte,Récipient",1505163945,1754212675,140g (4 x 35g),"No gluten, Kosher, No added sugar, No lactose, en:kashrut-division-of-the-london-beth-din",,4
+7612100018477,Ovomaltine crunchy,ovo-maltine,"Verre, Pot, Opercule à jeter, Pensez au tri!, Point vert, Pot en verre et couvercle en plastique à recycler, Triman",1495267401,1745478741,360g,"Sustainable farming,Made in Swiss,No palm oil,UTZ Certified,UTZ Certified Cocoa,Rainforest Alliance Cocoa",,4
+7622210869616,Chocolat Bio noir 85%,cote-d-or,,1524833448,1738416517,90 g,"Bio, Bio européen, Agriculture non UE, Point Vert, PL-EKO-07, PT-BIO-03, AB Agriculture Biologique, en:Or-bio-85",49,3
+8410076600837,Crunchy oats and honey,nature-valley,"Barre, fr:Boite en carton, en:card-box",1521669568,1748212156,420 g,"Organic, EU Organic, No preservatives, Made in France, No colorings, AB Agriculture Biologique",,4
+6111017030073,Sweeties Mini,aiguebelle,Sachet,1541442065,1741106006,,Pur beurre de cacao,,4
+20080211,Cookies chocolate Chip,sondey,"Plastique,PP - Polypropylène,de:05,de:Packung(en)",1367665331,1748136466,225g,"Sostenible,Agricultura sustentable,Aceite de Palma Sostenible,Hecho en Alemania,Alianza para Bosques,en:Roundtable on Sustainable Palm Oil,Certificado UTZ,UTZ Certified Cocoa",79,4
+7300400117975,,wasa,Incarto: Carta,1508069953,1752848843,270 g,,81,3
+5060490400242,"Love, Corn (Sea Salt)",love-corn,en:pp film-packet,1560530236,1739866944,115g,"No gluten, Vegetarian, Kosher, Vegan, Kashrut division of the London Beth Din, en:vegan-action",83,3
+8411414014385,,florbu,,1613744751,1739301052,,Sin azúcares añadidos,47,
+8402001013140,Digestive 0%,hacendado,,1707045029,1753358109,400g,Sin azúcares añadidos,50,4
+6111259347106,,,,1730636313,1750042320,,,76,
+6111259341234,Genova - Double Creme,excelo,,1581082127,1749928259,38g,,50,
+20261375,Madagascar Dark Chocolate tummasuklaa,preferred-selection,"Cardboard,Non-corrugated cardboard",1581683945,1754243170,100 g,"Reilu kauppa, Kasvisruoka, Fairtrade International, Vegaaninen, Euroopan vegetaariliitto, Euroopan vegetaariliitto vegaaninen, FSC, FSC Mix",34,4
+3061990141101,Mini BN Chocolat,bn,"Plastique,Carton",1439625386,1753086816,175g (5x35g),"Végétarien,Sans conservateurs,Sans colorants,Blé français,Sans conservateur artificiel,Sans colorants artificiels,Sans arômes artificiels,Sans colorants ni arômes artificiels,Sans arômes ni colorants artificiels",35,4
+3175681039599,Biscuit fondant choco 🍫noir (sans sucres ajoutés),gerble,"Plastique,Boîte,Carton,Sachet plastique",1379369162,1737651337,126 g,"No added sugar, No colorings, No palm oil, Nutriscore, Nutriscore Grade C, Rainforest Alliance, fr:Blé français, Triman, Avec-edulcorants, fr:Nutri-score-c, en:made-in-france",51,4
+3760049790818,4 Baguettes viennoises 340g,la-boulangere,PENSEZ AU TRI ! FILM PLASTIQUE ET FERMOIR 8 A JETER,1417246433,1742138384,340 g,"fair-trade, french-eggs, made-in-france, no-colorings, no-palm-oil, nutriscore, nutriscore-grade-b, agri-éthique-france, commerce-équitable, fabriqué-en-france, fait-avec-des-œufs-de-poules-élevées-en-plein-air, farine-de-blé-français, fr:plein-air, sans-arômes-ajoutés, fr:sans-colorants, œufs-de-poules-élevées-en-plein-air, fr:triman",81,4
+5410041435702,TUC Original,"mondelez, tuc",,1524654747,1752067839,100 g,Verified,62,4
+7622210422026,Véritable Petit écolier Pocket Chocolat au Lait,lu,"Plastique, Sachet, Carton",1449395267,1753086337,250g (10 x 25g),,36,4
+0072417196379,Shortbread Fingers,paterson-s,en:card-box,1674379115,1738674750,"20 units, 300gr total",,63,4
+6111259344051,,,,1701345624,1739906927,,,,
+20430733,cioccolato fondente,fin-carre,"Karton,en:card-box,en:mixed plastic film-wrapper",1405756566,1753646803,200 g,"Fair trade,Fairtrade International,Sustainable farming,Fairtrade cocoa,FSC,FSC Mix,UTZ Certified,UTZ Certified Cocoa",43,4
+5060042641420,Chips sel de mer et poivre noir imp,tyrrell-s,"Plastiek,Zak",1405616635,1735636413,150g,"No gluten, Vegetarian, Vegan, Made in the EU",73,4
+7613035040700,NESTLÉ DESSERT Noir 205g,"nestle, nestle-dessert, tablettes","Metal,Paper,Recyclable Metals,Aluminium,fr:Film en plastique, Boîte",1448958455,1752810087,205 g,"Green Dot, Nutriscore, Nutriscore Grade E, Rainforest Alliance, Triman, en:nestle-cocoa-plan",43,4
+9322969000015,Corn Thins Original,real-foods,,1437699099,1751791242,150g,"No gluten,Kosher,Australian made,Health Star Rating,Health Star Rating 4.5",67,3
+5055958704161,Graze Marmite Crunch,graze,,1637260625,1736686536,100 g,"Vegetarian,Vegan,With Sunflower oil",28,4
+5017764003395,Chipotle & lime,manomasa,,1666983352,1734741450,,"Gluten Free, vegetarian, Vegan",73,4
+5000137159614,HIGH FIBRE CREAM CRACKERS,"jacob-s, jacobs","Film, en:ldpe-wrapper",1534676965,1742512944,"25 crackers, 200g","Vegetarian, Vegan",63,4
+5000137487908,The Original Cracker,ritz-bakery,"Card-box, Mixed plastic film-film",1424204152,1742531522,200 g,Vegetarian,71,4
+8595229900504,Müsli oat biscuits,emco,,1527356375,1749746785,60g,"Halal,Green Dot,Pure cocoa butter",37,4
+7622210584717,Ginger 60% Cocoa Bar,green-black-s,"en:Metal, 22 PAP, en:Recyclable Metals, 41 ALU, en:foil-wrapper, en:paper-sleeve",1564254313,1738674753,90 g,"Bio, Bio européen, Commerce équitable, Fairtrade International, AB Agriculture Biologique",51,4
+5060283762212,Barbecue,proper,Mixed plastic-bag,1578398581,1750089509,85g,,73,4
+3392460511200,"LU - Grany Chocolate 5 Cereals Bar x6, 125g (4.5oz)",lu,"Sachet,Boîte,Carton,Sachet individuel,Film plastique à jeter,Sachet plastique,Étui carton à recycler",1368128195,1743949966,125 g,"Sans conservateurs, Point Vert, Fabriqué en France, Sans colorants, Triman, Eco-Emballages",35,4
+3587222521508,Brioche tranchée à la crème fraîche,la-fournee-doree,"Plastic,Bag,fr:Film en plastique",1441212293,1733748217,500 g,"Sans conservateurs, Point Vert, Fabriqué en France",55,4
+40084077,Kinder Riegel Einzelpackung,"ferrero, kinder","Plastikowe,de:Riegel",1426364695,1754125639,21 g,Grüner Punkt,,4
+7622210444127,Melloeux Fruit Rouges,"belvita, lu, mondelēz","Container,Sachez Plastique",1446212539,1747750414,250 g,,54,4
+01708752,Just Snax Tortilla Chips,sainsbury-s-basics,Ldpe-bag,1557333525,1694629520,200 g,"Vegetarian, Vegan",75,3
+5060482841992,"Hazelnut, Pecan & Maple Oat Bars",deliciously-ella,"en:card-box, en:paper-wrapper",1659175065,1737900424,3 x 50g,"No gluten,Vegetarian,No preservatives,Vegan,No additives,Source of fibre",,3
+3178530405736,"Bonne Maman - Quatre Quarts, 500g (17.6oz)",bonne-maman,"Plastique,Blister,Carton,Feuille en carton,Film en plastique",1337244398,1694529342,500 g e,"Point Vert, Fabriqué en France, Pur beurre, Au beurre frais",54,4
+3497911105127,čips,brets,1 sachet plastique à recycler,1381585795,1753017296,125 g,"Commerce équitable,Sans conservateurs,Point Vert,Fabriqué en France,Sans additifs,Sans colorants artificiels,Sans colorants,Sans exhausteur de goût,Nutriscore,Nutriscore C,Pommes de terre de France,Produit en Bretagne,Agri-Éthique France,Entrepreneurs + Engagés,PME Plus,Triman",78,3
+7622200002290,,"cote-d-or, kraft-foods",Container,1337343907,1752550756,240 g,"Green Dot, Rainforest Alliance, en:cocoa-life",33,4
+7622210422163,La paille d’or aux framboises,lu,"1 boîte en carton  à recycler
+6 sachets en plastique à recycler",1444142892,1753092437,170g,"Distributor labels, No preservatives, Charte LU Harmony, Made in France, No colorings, fr:Farine de blé français, Triman",57,4
+7622300292508,Choco Wafer,"milka, mondelēz","Plastique,Sachet,Sachet individuel,Barquette,Aluminium",1425073506,1753088312,180 g (6 x 30 g),Triman,27,4
+8595229901075,Musli biscuits,emco,,1544891732,1736838315,,,50,3
+5017764003142,Lightly Salted Potato chips,kettle,,1670086748,1747595688,25g,"No gluten,Vegan,Vegetarian",78,3
+3017760030106,Palmito L'original,"lu, mondelez","Boîte, Carton, Boite à recycler, Point vert, Sachet à jeter",1381688720,1753523527,"100 g, 2 sachets","Point Vert, Triman",57,4
+3336970711064,Curly cacahuète l'original,"curly, intersnack, vico","Plastique,Sachet,Film,en:Green dot,en:Pensez au tri!,Sachet plastique à jeter",1366889733,1747245252,160 g,"No preservatives, No colorings, No palm oil",72,4
+51000009,Salt and Vinegar Flavour Potato Crisps,walkers,"Plastic, Bag, Mixed plastic-packet, en:mixedPlasticFilm-packet",1412358629,1750698235,25 g,Vegetarian,68,4
+7622210713902,Belvita original  - Biscuits petit déjeuner miel & pépites de chocolat,"belvita, lu, mondelez","Sachet, Boîte en carton sachet en plastique",1531904847,1749026866,650 g,"Point Vert,Triman",44,4
+7622210724519,Chocolat noir Bio 70%,"cote-d-or, mondelez-international","Boite carton de 10g,Film alu de 2g,Film et boite à recycler,Point vert,Triman",1493467864,1753798917,90 g,"Bio,Bio européen,Agriculture non UE,Point Vert,IT-BIO-014,PL-EKO-07,PT-BIO-03,AB Agriculture Biologique,Triman",48,3
+10600425,Chips sea salt & cider vinegar,tyrrels,"Métal,en:Recyclable Metals,Aluminium",1549737405,1738674760,150g,"No gluten, en:vegetarian",90,4
+5057373749130,Ready Salted Crisps,tesco-finest,en:mixed plastic film-bag,1587383598,1735745094,150g,"Vegetarian,No artificial flavors,Vegan,No artificial colors,No artificial colours or flavours",82,3
+5059512738814,All butter shortbread fingers,tesco,,1684525313,1736787130,210g,,50,3
+3178530410112,Petites Madeleines,st-michel,"Plastique, Sachet, Film en plastique",1443458946,1744486961,1 kg (57 unités),"Free range, Free range eggs, Made in France, Made with free range eggs, No palm oil, fr:triman",45,4
+5410126006049,The Original Speculoos,"lotus, lotus-bakeries","Plastique, Sachet",1444649134,1753211626,125 g e,"Sustainable, Sustainable Palm Oil, Green Dot, No colorings, No flavors",40,3
+4088600132341,Dark chocolate,moser-roth,Paper-wrapper,1562690865,1748891322,25g,Vegetarian,29,4
+5000169567418,Milk Single Origin Chocolate,waitrose,,1582471810,1692462037,100g,"Fair trade, Fairtrade cocoa, Fairtrade International",48,3
+6111259344464,,excelo,,1693053883,1750520671,,,40,4
+3245550078681,Snack poppé T&H,too-goodfrance,LE TRI BAC + FACILE DE TAI,1425131491,1754153713,85 g,"Low or no fat, Low fat, No gluten, Vegetarian, Crossed Grain Trademark, Reduced fat, Source of fibre, High fibres, Afdiag, Moins de 1% de graisses saturées, Source-d-omega-3, fr:triman",,4
+3700214614259,Chocolat noir 75% Pérou,alter-eco,"Métal, en:Recyclable Metals, Aluminium, Carton, Feuille, Étui, Etui en carton, FSC Mixte, Feuille en métal, Pensez au tri!, Point vert, Étui carton et feuille metal à recycler",1366148021,1741353709,100g,"Commerce équitable,Fairtrade International,CH-BIO-006,FSC Mix,Fabriqué en Suisse",54,3
+5010265000801,Ryvita Crackerbread,ryvita,"Card-box, Ldpe-packet, en:mixedPlasticFilm-packet",1522338236,1750234875,200g - 5g cad,Vegetarian,67,4
+8480000125866,Chocolate negro 99% cacao,hacendado,"en:cartón,en:papel de aluminio",1574701474,1742029042,100 g,"Sin gluten, Punto Verde",33,3
+4056489041160,Carres graines pepites de chocolat,"lidl, sondey","fr:Film et barquette plastique à jeter, fr:Pensez au tri!, fr:Triman, fr:Étui carton à recycler, fr:Barquette en plastique",1591107127,1731869239,140 g,"Organic, EU Organic, Non-EU Agriculture, EU Agriculture, EU/non-EU Agriculture, Rainforest Alliance, Rainforest Alliance Cocoa, AB Agriculture Biologique, en:source-of-fibre",65,3
+3329757004442,Sucre Pure Via SpecialPatisserie,pure-via,sachet,1605299653,1737896537,380 g,Point Vert,79,4
+3336972109104,Chips de lentilles saveur oignons caramélisés,vico,,1649274241,1753551685,85 g,"Sans conservateurs,Sans colorants,Sans huile de palme,Nutriscore,Nutriscore C",,4
+3046920022507,Excellence Noir Caramel à la pointe de sel,lindt,"Métal,Métaux recyclables,Aluminium,Carton,Feuille,Étui,Etui en carton,Sec",1467112215,1748257455,100 g,Fabriqué en France,29,4
+4008400290829,Kinder Pinguin,"ferrero, kinder","Plastic,Bag,Cardboard,Fresh,Sleeve,",1460822309,1753720460,240 g (8 x 30 g),"sans-conservateurs, point-vert, sans-colorants, en:point-vert, fr:sans-colorants, fr:sans-conservateurs",18,4
+8000500009673,Ferrero rocher,ferrero,"Plastic,Box,Other plastic-tub,Other plastic-unknown,Paper-sleeve,Ps-tub",1386320540,1749916146,300 g,"Green Dot,Halal, Végétarien",,4
+3175681261372,Gerblé cacao céréales,gerble,Paquet,1583931051,1751092786,160 g,"Fabriqué en France, Sans huile de palme, Nutriscore, Nutriscore A, en:rainforest-alliance",65,4
+6111259341159,Crakes choc,excelo,,1604510944,1712272628,,,50,4
+3175681290440,Petit déjeuner fruits rouges,gerble,,1681818365,1749194987,132 g,"Bio,Bio européen,Agriculture non UE,Agriculture UE,Agriculture UE/Non UE,FR-BIO-01,Sans huile de palme,Nutriscore,Nutriscore A,AB Agriculture Biologique,Farine de blé français",70,4
+6111031005217,Oreo chocolate,unknown,,1712618500,1749723188,57 g,Unknown,40,4
+6111031005408,,,,1723991920,1738853951,,,50,
+40084107,Überraschung,kinder,"Aluminiumfolie,Stück(e)",1420034300,1753778842,20 g,"Nicht empfohlen für bestimmte Personengruppen, Für Kinder unter 3 Jahren nicht empfohlen, Tidy man",,4
+6111017042427,Chocolat Tentation Noir Gourmand Amandes,aiguebelle,,1530806476,1741797982,,Pur beurre de cacao,15,4
+7622210995100,Noir amandes entières,"cote-d-or, mondelez","bac de tri, Metaal,Karton,en:Sheet,Banderol",1473000195,1749732994,180 g,"Cocoa Life,Green Dot,Triman",26,4
+8717677339938,Milk Caramel Sea Salt Chocolate,tony-s-chocolonely,1 paper wrapper to recycle,1568550558,1743821453,180 g,"Fair trade,Fairtrade International,Fairtrade cocoa",48,4
+8000500359556,90G TABLETTE RAFFAELLO,ferrero,"Métal,Carton,Métaux recyclables,Aluminium,Feuille,Étui",1634285674,1754149930,90 g,Triman,24,4
+0612322030087,Chocolate Chip Oat Biscuit Breaks,nairn-s,"Wrapper, Card-box, Pp film-sleeve",1475014321,1743795001,160 g,"Baixo ou nenhum açúcar,Sustentável,Pouco açúcar,Sem glúten,Vegetariano,Sem sabores artificiais,Sem conservantes artificiais,Sem OGM,Açúcar reduzido,Source of fibre,Óleo de palma sustentável,Vegano,30% menos açúcar,Rico em fibras,Sem cores artificiais,en:Great Taste,en:Great Taste 2022,en:Free From Food Awards,Dados incorretos no rótulo",31,4
+20029838,Haselnuss,"fin-carre, lidl","Film,Plastique",1398862798,1753265081,100 g,"Fair trade, Fairtrade International, Sustainable farming, Green Dot, Max Havelaar, UTZ Certified, UTZ Certified Cocoa, en:fairtrade-cocoa",58,4
+3046920028370,Lindt Excellence Dark Orange Intense,lindt,"en:Metal,22 PAP,en:Recyclable Metals,41 ALU,en:Punto verde,en:container,Carton",1338062463,1754302427,100 g,"Sin gluten,Hecho en Suiza",30,4
+5060042641413,Sweet Chilli & Red Pepper,tyrrell-s,"Kunststoff,Tüte",1369240951,1749997220,150g,"No gluten,Vegetarian,Made in the EU,Triman,Assured Food Standards",73,4
+3228857001323,Brioche tranchée nature ss additif,harrys,"Enveloppe,Sachet en plastique",1571594404,1747956955,680 g,"Organic,Made in France,No additives,No palm oil,Nutriscore,Triman",58,4
+5053990162703,Pringles,pringles,"Plastique,Métal,Carton,Métaux recyclables,Aluminium,Tube",1642538626,1753527288,175 g,"Vegetarisch,Triman",69,4
+5059697729072,Tortilla chips,tesco,,1693995637,1753469396,200g,No gluten,67,3
+20706852,Mints,"j-d-gross, lidl","Plastic,Box,Cardboard,Container,Non-corrugated cardboard",1493110450,1746223488,200g,"fr:Fairtrade-cacao, en:rainforest-alliance",34,4
+3256540001008,Pains au chocolat,pasquier,"en:Clip en plastique,en:Plastique,en:Sachet,en:Sachet en plastique",1442154407,1753356759,8 x 45 g,"Sans conservateurs,Fabriqué en France,Nutriscore,Nutriscore D,Rainforest Alliance Cacao",60,4
+3497917000518,Chips saveur Chèvre piment d'Espelette,brets,SACHET = BAC DE TRI,1422709765,1752954964,125 g,"Sans gluten,Point Vert,Fabriqué en France,Arômes naturels,Sans colorants artificiels,Sans exhausteur de goût,Nutriscore,Nutriscore C,Pommes de terre de France,Produit en Bretagne,Entrepreneurs + Engagés,PME Plus",82,4
+4008400183022,Raffaello,ferrero,"Plastikowe,en:Cardboard,23 PBD,en:Card-box,PP,05 PP,21 PAP",1470915053,1752068968,230 g,"No preservatives, Made in Belgium, Made in the EU",,4
+5060042641437,Mature Cheddar & Chive,tyrell-s,"Packung,en:mixed plastic film-packet,fr:Sachet plastique",1459618937,1752354504,150 g,"No gluten, Vegetarian, Triman, en:made-in-the-eu",68,4
+5060088705179,Peanut Delight,nakd,"Plastique,Boîte,Paquet,en:Card-box,en:Mixed plastic-wrapper,en:Unknown-wrapper",1489414948,1753534428,35 g,"No gluten, Vegetarian, Kosher, Vegan, No added sugar, No milk, en:source-of-fibre",54,4
+5391528180073,Oven Baked Sweet Potato Fries,strong-roots,Ldpe-bag,1521892123,1754315359,500 g,"No gluten, Vegetarian, Vegan, Certified B Corporation, en:crossed-grain-trademark",83,3
+5410041143508,Gout Bacon,"lu, mondelēz, tuc",Plástico,1350933014,1753176391,100 g,"Ponto Verde,Com óleo de girassol,Triman",,4
+7613035859098,NESTLÉ DESSERT 70% Absolu 170g,"nestle, nestle-dessert, tablettes","Métal,Papier,Métaux recyclables,Aluminium,Boîte,Film en plastique",1493740457,1754313159,170 g,"New, Nutriscore, Nutriscore Grade D, Pure cocoa butter, Rainforest Alliance, Triman, Point-vert, en:nestle-cocoa-plan, Point Vert",33,4
+8434165483965,Tosta Rica,cuetara,Container,1509789001,1745104071,570 g,"Green Dot,With Sunflower oil",59,4
+8410076801203,Crunchy canadian maple syrup,nature-valley,en:mixed plastic-packet,1609617129,1754142575,42 g,,,4
+4056489546092,Bio crackers,lidl,sachet plastique,1640875637,1745347764,200 g,"Biologisch,EU Organic,Bron van vezels,Vezelrijk,AB Agriculture Biologique,Triman",92,3
+5000168001210,McVities Rich Tea Biscuits,mcvitie-s,"Wrapper, Ldpe-packet, en:ldpe-bag",1460536851,1753715915,300 g,,55,4
+7613035239562,Nesquik,nestle,"Plastique,Boîte,Boîte en plastique,Opercule en plastique",1450164369,1745523374,700g,"No gluten, No artificial flavors, Green Dot, Made in France, Nestlé Cocoa Plan, Rainforest Alliance, en:rainforest-alliance-cocoa",92,4
+8076809517706,Baiocchi nocciola snack mb,"barilla, mulino-bianco","Plastique, Sachet",1351276242,1753197505,336 g,"Sans conservateurs,Sans additifs,Sans colorants,Sans matière grasse hydrogénée,Sans huile de palme,Sans édulcorants, Végétarien",48,4
+6111259344181,Crunchy original,be,,1638016414,1743880051,,,40,4
+8402001009648,María 100% Integral,"hacendado, siro",,1694407536,1733669537,,,50,4
+00938112,Intense Dark Chocolate 85% Cocoa Solids,marks-spencer,"Paper or cardboard, Paper, Card-packet, Foil-film, en:paper-wrapper, en:foil-wrapper",1409603873,1745934405,100 g e,"Commerce équitable,Végétarien,Fairtrade International,Végétalien,Fabriqué en Italie",44,3
+3175681037885,Tartines Craquantes Multi-Céréales,cereal-bio,"Plastic,Bag,Container",1422533863,1745270839,145 g,"Low or no sugar,Low sugar,Organic,EU Organic,No preservatives,Non-EU Agriculture,EU Agriculture,EU/non-EU Agriculture,FR-BIO-01,FR-BIO-10,Made in France,New recipe,No colorings,No palm oil,Nutriscore,Nutriscore Grade A,AB Agriculture Biologique,Triman",91,3
+16756168,Chocolat au lait feuilleté caramel,poulain,Barquette,1537558723,1739007625,95g,Fabriqué en France,24,4
+8480000125248,Chocolate negro 0% azúcares añadidos 85% cacao,hacendado,Green dot,1559134219,1742029516,100 g,"No added sugar,With sweeteners,Green Dot,Excessive consumption can have laxative effects",15,4
+5050974504139,Thins Rosemary & Sea Salt Flatbreads,ryvita,"Film, Plastic Tray, Recyle Carton, en:card-box, en:pet-tray, en:ldpe-film",1569258769,1743852030,125 g,,,4
+3497917002451,Chips de Sarrasin au Sel de Guerande,brets,SACHET BAC DE TRI,1584642449,1748474404,120 g e,"nutriscore, nutriscore-c, produit-en-bretagne, au-sel-de-guérande, pme-plus, triman, nl:geproduceerd-in-bretagne, sarrasin-100 %-français",89,3
+3061990143372,"BN - Strawberry Cookies, 285g (10oz)",bn,,1617198185,1754295707,285 g,"Made in France, No colorings, Triman",54,4
+5000328015927,Oven Baked Sea Salt Crisps,walkers,,1656768153,1751458199,6pcs,,68,4
+06163826,Complet au sarrasin,gerble,,1590822056,1739356726,210 g,"Sans gluten,Source de protéines,Sans sucre ajouté,Sans lactose,Sans huile de palme,Nutriscore,Nutriscore A",76,4
+3014680009175,Bonbon à la Sève de Pin,"la-vosgienne, mondelez","Metal,Box,Steel",1366896556,1737204366,125 g,"Sans arômes artificiels, Fabriqué en Espagne, Sans colorants",55,4
+3017760038331,La Barquette (chocolat),lu,"Plástico,en:Cardboard,fr:Boite carton",1431022603,1753087262,120 g,"Sans arômes artificiels, Sans conservateurs, Fabriqué en France, Sans colorants",41,4
+3046920042932,Création Rocher Noir,lindt,"Emballage aluminium,Etui carton",1517314766,1748256297,150 g,"Qualité certifiée,Point Vert,Fabriqué en France",29,4
+8410376026979,Digestive Muesli,gullon,"Caixa,Cartão,Plástico",1345282037,1751980911,365 g,"Source of fibre,Ponto Verde,Rico em fibras",50,4
+4088600107806,Scottish Rough Oatcakes,savour-bakes,Cardboard,1558976976,1742512587,250 g,,81,3
+6111259341692,itri choco,excelo,Plastique,1601125983,1738853972,32 g,,42,4
+3760049798876,10 Pains au lait frais sans sucres ajoutés 350g,la-boulangere,"Plastique,Film en plastique",1615015497,1745063630,350 g,"Fair trade, Free range, Free range eggs, Made in France, No added sugar, Nutriscore, Nutriscore Grade B, Agri-Éthique France, en:no-colorings",72,4
+3168930167983,Pomme de terre nature,"lay-s, lays",Sachet plastique,1649552477,1732039977,155 g,"Sans conservateurs, Point Vert, Sans colorants artificiels, Sans colorants, Nutriscore, Nutriscore C, Triman, ISCC",73,3
+20114329,all butter shortbread fingers,tower-gate,"Plastic, en:packet",1493276478,1748211697,210g,"German Agricultural Society, Gold medal of the German Agricultural Society, 2019 Gold medal of the German Agricultural Society, No added sugar",55,3
+3336971209133,Curly cacahuete,"curly, vico","Plastic,Metal,Recyclable Metals,Aluminium, Enveloppe",1398875447,1751052904,100 g,"No preservatives, Made in France, No colorings, No palm oil, Nutriscore, Nutriscore Grade C, fr:Maïs de France, Triman",86,4
+5000159492966,M&M's Cacahuètes - Pack familial,"m-m-s, mars","Plastique,Sachet,Sec",1460464861,1738853974,550 g,Point Vert,17,4
+7613035898646,NESTLÉ DESSERT Corsé 200g,"nestle, nestle-dessert, tablettes","Papier,en:Recyclable Metals,Feuille aluminium",1496489482,1754390734,200 g,"Nutriscore,Nutriscore D,AOP,Vérifié Rainforest Alliance,Triman, Végétarien, Point Vert",34,4
+8410076600448,Crunchy Avoine & Fruits Rouge 5 x 42 g,nature-valley,FR BOITE + SACHET 히,1513855021,1749553364,210 g,"Arômes naturels,À l'huile de tournesol,Triman,Sans colorants,Sans arômes artificiels,Sans conservateurs,Sans lactose",59,4
+8410376023831,Diet Nature digestive sin azúcares,gullon,"Plástico,Caixa,Cartão",1485332131,1750085526,400 g,"Vegetariano,en:Source of fibre,en:European Vegetarian Union,Ponto Verde,Rico em fibras,Nutriscore,Nutriscore B,es:Con aceite de girasol alto oleico",54,4
+1230000097048,Hazelnut Butter Dark Chocolate,hu,"en:mixedPlasticFilm-pouch, en:paper-packet, en:compostable-wrapper",1639671181,1738674808,60 g,"Fair trade,Organic,Vegetarian,EU Organic,Vegan,Fairtrade cocoa,Soil Association Organic,The Vegan Society",39,3
+3168930171737,Chips nature,"lay-s, lays",,1679841236,1750444916,135 g,"Point Vert,Sans colorants,Nutriscore,Nutriscore B",73,3
+20840273,Brioche tranchée,maitre-jean-pierre,"Pack,fr:Film en plastique,fr:Produit",1488004346,1754200759,500g,"Nutriscore,Nutriscore D,Farine de blé français,Aux-oeufs-frais,Oeufs-de-poules-elevees-au-sol,Triman",54,4
+3046920010603,Excellence Noir Framboise intense,lindt,"1 étui en carton à recycler
+1 feuille en aluminium à recycler",1425770122,1753697911,100 g e,"Pur beurre de cacao,Triman",29,4
+3056440032696,Petits coeurs chocolat,"kraft-foods, lu, mondelez","Plastic,Box,Cardboard",1376736022,1752117551,125 g,"Sans conservateurs,Point Vert,Fabriqué en France,Sans colorants,Sans arômes ajoutés,Sans colorants ou conservateurs",31,4
+3472860001058,SABLES PUR BEURRE,la-mere-poulard,"Plastique, Carton",1393278669,1747130529,125 g (2 sachets x 8 biscuits),"No artificial flavors, No GMOs, No preservatives, Made in France, No artificial colors, fr:Blé issu de culture raisonnée, en:pure-butter",63,4
+5413548283128,Schokobons,kinder,"Plastique, PP 5 - Polypropylène, Enveloppe, en:Green dot, en:Packung(en), en:Stück, stück",1475747566,1751342502,200g,"Point Vert,Triman, Végétarien",,4
+8480000135025,María Dorada,hacendado,"Caja,Plástico",1618388213,1732281307,400 g (2 x 200 g),"O consumo excessivo pode ter efeitos laxantes,Ponto Verde,Sem açúcares adicionados,Com adoçantes,es:Recicla amarillo,es:Recicla azul",44,4
+6111017046029,Tentation,aiguebelle,,1629651470,1747237301,,en:pure-cocoa-butter,,
+3017760472890,BelVita Original Petit Déjeuner pépites de chocolat,"lu, belvita","Plastique, Sachet, Carton, Paquet, Etui carton à recycler, Sachet plastique à jeter",1415086745,1748271609,300 g,"Peu ou pas de sucre,Peu de sucre,Allégé en sucre,Moins 30% de sucre,Triman,Info-tri-point-vert",40,4
+3229820789149,Biscuits nappés de chocolat noir 🍫,bjorg,ÉTUI + SACHETS 酒 BAC DE TRI,1415269562,1740776572,225 g,"Bio, Bio européen, Agriculture non UE, Agriculture UE, Agriculture UE/Non UE, FR-BIO-01, Point Vert, Fabriqué en France, Sans huile de palme, AB Agriculture Biologique",61,4
+5000328376677,Walkers Ready Salted Crisps 6pk,walkers,"Plastique,Sachet,PP - Polypropylène,en:Pp-packet",1426963070,1751711258,150g,"Vegetarian, No artificial preservatives, No added MSG, No artificial colors, No artificial colours and preservatives",78,3
+5060088705148,Berry Delight Bars,nakd,"en:Plastic,en:Carton box,en:FSC C014207,en:FSC recycled,en:Fsc",1499426825,1752518172,"140 g, 4 barres","Low or no sugar, No gluten, Vegetarian, Kosher, Vegan, FSC, FSC Mix, Green Dot, Natural flavors, No added sugar, No artificial additives, No lactose, No milk, No wheat, fr:Natural-sugars, fr:Planeat, fr:Weforest, en:kashrut-division-of-the-london-beth-din",,4
+5000237132296,POM-BEAR Potato snacks,kp-snacks,MixedPlasticFilm-packet,1565815913,1748611709,13g,"No gluten,Vegetarian,No artificial flavors,No artificial colors,No artificial colours or flavours,Vegan",68,4
